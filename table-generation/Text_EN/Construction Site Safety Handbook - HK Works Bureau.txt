@@ -1,0 +1,3570 @@
+CONSTRUCTION SITE SAFETY HANDBOOK
+for
+Public Works Programme
+WORKS BUREAU	May 2000
+Foreword
+0 - 1
+ 
+
+The Government of the Hong Kong Special Administrative Region  is firmly committed to providing a safe and healthy working environment for all personnel involved in the construction of public works and others who may be affected by the works. Recognising that front line supervision is crucial in ensuring that contractors comply with specified safety standards, this handbook is intended to be a comprehensive but simple guide to good safety practice for use by site supervisory staff in the works departments.
+
+
+
+
+
+
+
+
+( S. S. Lee )
+Secretary for Works
+May 2000
+ 
+
+Introduction
+ 
+0 - 2
+ 
+
+Safety is a duty of all. It is imperative that all personnel involved in construction works should play their respective roles towards the provision and upkeeping of a safe and healthy working environment. All staff should therefore be conversant with essential safety knowledge and have a high degree of safety awareness so that they are able to identity unsafe acts/conditions and ask for rectification. They must take reasonable care for the safety of themselves and others affected by their acts or omissions at work.
+
+The purpose of this handbook is to enable site supervisory staff at all levels to understand the essential safety information with regard to the construction works that they are likely to encounter in their daily work.  It is  hoped that supervisory staff will find this handbook useful  when  they  are carrying out site supervisions. The handbook will  be updated  regularly  in the light of experience gained and further information obtained.
+
+
+
+
+
+
+
+
+
+Acknowledgement
+This handbook was prepared by the Safety Unit of  this  Bureau, with the assistance of the Safety Advisers of the works departments. Thanks are also extended to the Labour Department and all those who provided valuable advice and comments in the preparation of this handbook.
+
+
+Safety Unit Works Bureau May 2000
+ 
+
+Contents
+ 
+0 - 3
+
+Page
+ 
+
+Foreword	0 - 1
+Introduction	0 - 2
+Contents	0 - 3
+Chapter 1	Duties of Employer, Employees, and Safety Personnel
+
+1.1	Employer	1 - 1
+1.2	Employees	1 - 2
+1.3	Safety Officer	1 - 3
+1.4	Safety Supervisor	1 - 5
+1.5	Safety Representative	1 - 7
+1.6	Architect/Engineer’ s Representative and Site	1 - 8
+Supervisory Staff Chapter 2	Safety and Health of Workplace
+2.1	General
+2.1.1	Site Layout	2 - 1
+2.1.2	Site Roads and Site Traffic	2 - 3
+2.1.3	Ventilation, Temperature, and Lighting	2 - 5
+2.1.4	Fire Prevention   (see Chapter 5)	2 - 6
+2.1.5	Housekeeping	2 - 7
+2.1.6	Noise Control	2 - 8
+2.1.7	Dust Control	2 - 10
+2.1.8	Welfare Facilities	2 - 11
+2.1.9	Protection Against Adverse Weather	2 - 12
+
+2.2	Scaffolding and Working Platforms	2 - 13
+2.2.1	Independent Tie Scaffolds	2 - 13
+2.2.2	Birdcage Scaffolds	2 - 15
+2.2.3	Putlog Scaffolds	2 - 16
+2.2.4	Mobile Scaffolds	2 - 17
+2.2.5	Truss-out Scaffolds	2 - 19
+Page
+ 
+0 - 4
+2.2.6	Ladders	2 - 20
+2.2.7	Bamboo Scaffolds	2 - 22
+2.2.8	Builders Lifts and Tower Working	2 - 25
+Platforms
+2.2.9	Suspended Working Platforms	2 - 30
+2.3	Work in Confined Spaces	2 - 33
+2.4	Excavations	2 - 37
+2.5	Work over or near Water	2 - 39
+2.6	Work on Slopes	2 - 40
+2.7	Road Works	2 - 43
+2.8	Work on Demolition Sites	2 - 45
+2.9	Work in Tunnels	2 - 47
+2.10	Gas Risk Areas	2 - 52
+2.11	Work in the Vicinity of Gas Pipes	2 - 53
+Chapter 3	Safe Use of Plant
+
+3.1	Cranes	3 - 1
+3.2	Excavators	3 - 4
+3.3	Trucks and Dumpers	3 - 7
+3.4	Forklift Trucks	3 - 9
+3.5	Compacting Machines and Rollers	3 - 10
+3.6	Piling Machine	3 - 11
+3.7	Air Compressors and Air Receivers	3 - 13
+3.8	Handheld Pneumatic Breaker	3 - 15
+3.9	Electric Arc Welding	3 - 17
+3.10 Gas Welding, Gas Cylinders	3 - 19
+3.11 Woodworking Machine	3 - 22
+3.12 Material Hoists	3 - 23
+3.13 Cartridge Operated Tools	3 - 25
+3.14 Abrasive Wheels	3 - 28
+3.15 Steel Bending Machine	3 - 30
+3.16 Electric Tools	3 - 32
+3.17	Handheld Tools	3 - 34
+Page
+ 
+0 - 5
+Chapter 4	Safe Use, Handling, Storage and Transport of Materials
+
+4.1	Manual Handling and Lifting	4 - 1
+4.2	Slings and Slinging	4 - 3
+4.3	Handling of Chemicals and Hazardous Substances	4 - 5
+4.4	Asbestos	4 - 7
+Chapter 5	Fire and Explosions
+5.1	Fire Prevention	5 - 1
+5.2	Fire Escape	5 - 2
+5.3	Fire Fighting and Equipment	5 - 3
+Chapter 6	First Aid
+6.1	Person Trained in First Aid	6 - 1
+6.2	First Aid Facilities	6 - 2
+6.3	Artificial Respiration	6 - 4
+Chapter 7	Personal Protective Equipment
+7.1	General	7 - 1
+7.2	Eyes Protection	7 - 3
+7.3	Head Protection	7 - 5
+7.4	Hearing Protection	7 - 7
+7.5	Fall Protection	7 - 9
+7.6	Respiratory Protective Equipment	7 - 11
+7.7	Breathing Apparatus	7 - 14
+7.8	Safety Footwear	7 - 15
+7.9	Protective Clothing	7 - 16
+7.10	Hand Protection	7 - 17
+
+
+
+
+
+Page
+ 
+0 - 6
+Chapter 8	Safe Use of Electricity
+
+8.1	Generator	8 - 1
+8.2	Switch Board	8 - 3
+8.3	Wiring and Connections	8 - 6
+Chapter 9	Accident Reporting and Investigation
+
+9.1	Accident Reporting Procedure	9 - 1
+9.2	Accident Investigation	9 - 3
+
+Appendix	
+A.	List of Relevant Ordinance and Regulations	A - 1
+B.	List of Relevant Safety Standards and Codes of Practice	B - 1
+C.	List of Hazardous Substances	C - 1
+D.	List of Useful Telephone Numbers	D - 1
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 1
+	Safety Personnel	
+
+1.1	Employer
+
+1.	Formulate a policy with regard to the safety and health at work   of all staff.
+
+2.	Provide a safe and healthy working environment to  his employees and protect others who may be affected by the work.
+
+3.	Provide adequate and appropriate information, instruction, training and supervision to his employees.
+
+4.	Set out safety and health standards and procedures.
+
+5.	Appoint responsible personnel to ensure that the safety and  health policy is fully implemented, and the safety and health standards, instructions and procedures are strictly observed and followed.
+
+6.	Provide adequate and proper personal protective equipment for his employees.
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 2
+	Safety Personnel	
+
+1.2	Employees
+
+1.	Be conversant and co-operate with the employer in administering the Safety Policy and following the safety and health  requirements as stipulated under the law and the works contract, such as the site safety manual, the site safety handbook,  and other safety and health standards, instructions and procedures, which are related to their work to avoid accident.
+
+2.	Work safely and take good care of themselves and others who may be affected by them at all times, avoid to be complacent  and take dangerous shortcuts, avoid to improvise dangerous tools, and always seek assistance and advice if in doubt.
+
+3.	Use the personal protective equipment as required and take reasonable care of them when they are not used.
+
+4.	Take immediate action to rectify any unsafe  tools,  equipment and plant or any unhealthy conditions, or report them immediately to their supervisors or the responsible person in control of the workplace.
+
+5.	Report all accidents to the supervisors immediately after their occurrences.
+
+
+
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 3
+	Safety Personnel	
+
+1.3	Safety Officer
+
+1.	Assist his proprietor/employer in the implementation of  the Safety Policy and the safety and health  requirements  as  stipulated under the law and the works contract, such as the site safety manual, the site safety handbook, and other safety and health standards and instructions.
+
+2.	Assist in ensuring that all plant, machinery, equipment and tools are maintained in safe working order. Ensure that the names  of the persons designated by the Contractor for the operation of particular plant and equipment are recorded in a register  and check that the plant and equipment are only operated by designated competent persons.
+
+3.	Assist in ensuring that all fire services installations and  fire escapes are maintained in good working order.
+
+4.	Assist in ensuring the safe and health condition and good housekeeping in the workplace.
+
+5.	Conduct safety inspections to project sites, plants and workshops, and prepare inspection reports.
+
+6.	Ensure the observance of the safety rules and safe practices by the staff, and assist in the supervision of safety supervisors.
+
+7.	Report to the site management any unsafe practices and unsafe conditions in the workplace. Prepare and submit  statutory reports to the proprietor/employer.
+
+8.	Carry out risk assessment and prepare safety method statements, including control measures for high and medium risk activities as necessary.
+
+9.	Conduct accident investigation and prepare investigation reports; and recommend preventive measures to avoid recurrence.
+
+10.	Organise/conduct safety training courses and seminars, and prepare training records.
+
+11.	Arrange and organise safety promotion activities.
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 4
+	Safety Personnel	
+
+
+12.	Liaise with Labour Department’ s Occupational Safety Officers and representatives of safety & health organisations.
+
+13.	Clearly identify himself on site by wearing an armband or a safety helmet appropriately marked in Chinese and English.
+
+
+
+"Safety Officer" means a person registered as a safety officer in accordance with the Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations (FIU (SO&SS) R) and employed by the contractor to carry out the duties of a Safety Officer as specified in the Contract and duties specified in the FIU (SO&SS) R.
+
+
+According to the FIU (SO&SS) R, a contractor shall employ one full time Safety Officer when the total number of persons employed at one or more than one construction sites is 100 or more.
+
+
+In general for public works contracts, one full time Safety Officer is required where the total number of workers employed on the Works or in connection with the Contract is between 50 and
+200. For a term contract, at least one full time Safety Officer is required. However, reference should be made to the contract documents for the specific requirement on the provision of Safety Officers.
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 5
+	Safety Personnel	
+
+1.4	Safety Supervisor
+
+1.	Assist the Safety Officer and the site management in implementing the safety and health requirements, standards and instructions.
+
+2.	Be familiar with the statutory regulations applicable to the work  on which their gang is engaged; insist that the regulations are observed and followed, and all accidents reported immediately.
+
+3.	Keep all staff informed of the Safety Policy and take all reasonably practicable steps for carrying it out.
+
+4.	Incorporate safety instructions in routine orders and see that they are obeyed.
+
+5.	Take all reasonable steps to prevent workers from taking  risks.
+
+6.	Assist the safety Officer in arranging new employees, particularly inexperienced and apprentices or new recruits to receive site specific safety induction course and to learn to take safety precautions. Conduct Tool Box Talks for workers.
+
+7.	Ensure that protective clothing and equipment are used whenever appropriate.
+
+8.	Discourage “horseplay” and reprimand those who fail  to consider their own safety and that of others.
+
+9.	Report to the immediate supervisor on any defects and ensure that any unsafe plant and equipment are not used.
+
+10.	Ensure that all plant and equipment are in a safe and secure state when left unattended.
+
+11.	Remind the management to replenish first aid boxes at regular intervals.
+
+12.	Report to the management and/or Safety Officer on matters relating to safety and health.
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 6
+	Safety Personnel	
+
+13.	Clearly identify himself on site by wearing an armband or a safety helmet appropriately marked in Chinese and English.
+
+
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 7
+	Safety Personnel	
+
+1.5	Safety Representative
+
+1.	Safety Representative is generally a foreman or ganger of a specific trade working full-time on site.
+
+2.	Assist the Safety Officer and the site management in enforcing the safety and health requirements, standards and instructions.
+
+3.	Incorporate safety instructions in routine orders and see  that they are obeyed.
+
+4.	Take all reasonable steps to prevent workers from taking risks. Discourage “horseplay” and reprimand those who fail  to consider their own safety and that of others.
+
+5.	Ensure that protective clothing and equipment are used whenever appropriate.
+
+6.	Report to the site management and/or Safety Officer on matters relating to safety and health.
+
+7.		Clearly identify himself on site by wearing an armband or a safety helmet appropriately marked in Chinese and English.
+ 
+Chapter 1	Duties of Employer, Employees, and	1 - 8
+	Safety Personnel	
+
+1.6	Architect/Engineer’ s Representative and Site Supervisory Staff
+
+1.	Implement Works Bureau’ s Safety Policy and the safety and health requirements as stipulated under the law and the works contract, the Construction Site Safety Manual, the Construction Site Safety Handbook, Safety Plan (if any) and other safety and health standards, instructions and procedures.
+
+2.	Carry out site inspections to ensure that the safety and health standards, rules and practices are being complied with and corrective actions are taken as necessary.
+
+3.	Ensure maintenance records of all machinery, plant, equipment and tools are kept, and all plant and equipment are operated by competent persons.
+
+4.	Ensure that all identified defective machinery, plant, equipment and tools are suspended/withdrawn from service until they are satisfactorily repaired.
+
+5.	Check that the personal protective equipment are properly maintained, readily available and are correctly used.
+
+6.	Report any inadequacy in safety and health measures and dangerous incidents for follow up action.
+
+7.	Closely monitor the contractors’ works for any unsafe practices or unsafe methods. Ask for their rectification as  soon  as possible by means of the power delegated to him under the contract.
+
+8.	Chair the Site Safety Management Committee Meetings, and attend the Site Safety Committee Meetings.
+
+9.	Closely liaise with the Labour Department and/or the Marine Department on the construction site safety matters.
+
+10.	Conduct accident investigation and recommend  corrective  action for preventing similar accidents.
+ 
+ 
+11.	Compile site accident statistics and report on the contractors’ safety performance.
+
+12.	Assign and train site staff to administer safety provisions in the contract.
+
+13.	Attend safety audits and ensure that follow-up actions on the recommendations made by safety auditors in the safety audit reports are taken.
+ 
+ 
+
+2.1	General	(Figures 2.1.1 – 1&2 refer)
+
+2.1.1	Site Layout
+
+Prior to commencement of the works on a construction site, the following provisions shall be made and recorded  in a site layout  plan as appropriate:
+
+1.	Arrange perimeter fencing or hoarding where appropriate.
+
+2.	Ensure good visibility and safe access at site entrances.
+
+3.	Provide adequate warning signs at the entrances and exits where necessary.
+
+4.	Provide areas for loading and unloading, storage of materials, plant and machinery.
+
+5.	Post emergency procedure and statutory notices at conspicuous locations.
+
+6.	Arrange suitable positioning of hoists and cranes.
+
+7.	Consider welfare facilities to offices, compounds  and workshops, arrange ventilation, lighting and temporary connections to utility services.
+
+8.	Provide mobile phones until fixed phones are installed.
+
+9.	Arrange electrical supply requirements and incoming mains.
+
+10.	Provide skips or dumping areas for rubbish and waste materials, and arrange for their clearance on a regular basis.
+
+11.	Arrange storage, transport and use of :
+(a)	fuel;
+(b)	other flammable materials;
+(c)	explosive materials.
+Obtain the necessary licences from appropriate authorities.
+
+12.	Plan fire escape routes and locate fire fighting equipment.
+ 
+ 
+
+13.	Provide access roads and plant movement areas within  the  works area/site.
+
+14.	Provide designated car parking areas.
+
+15.	Provide wheel-washing basin for vehicles at the exits of the site.
+
+16.	Provide first-aid facilities and post notices at the various works areas to show the locations of those facilities.
+
+17.	Provide adequate warning of overhead or underground utilities.
+
+18.	Provide lighting on hoarding or external  fencing  for  public safety.
+
+19.	Provide and maintain proper drainage and means of sewage disposal.
+
+
+ 
+
+ 
+
+ 
+ 
+
+
+2.1.2	Site Roads and Site Traffic	(Figure 2.1.1 – 3 refers)
+
+The immediate cause of most traffic accidents on site is human error : bad driving, carelessness or ignorance during work with special hazards (for instance near excavations or power lines), carrying unauthorised passengers, poor maintenance of vehicles, overloading or improper stacking or securing of loads.
+
+1.	Site traffic routes should be clearly indicated and maintained as level as is consistent with safe travel and should be carefully planned taking account of such potential hazards as overhead lines, falsework and steeply sloping ground as well as the movement of workers to and from different working positions. Where possible an one-way system should be implemented.
+
+2.	Establish and display clearly speed limits on site and erect notice boards/signages to draw the drivers' attention on areas of potential hazards.
+
+3.	When vehicles have to cross public roads, drivers are responsible for seeing that the wheels and tyres are cleaned of mud so that the public roads will not be contaminated and no skidding hazard is created by mud deposited on the roads near the entrances to construction sites. They are also responsible for seeing that their load is secure and does not present a risk to other road users.
+
+4.	Protect workers from the risk of being struck by vehicles if they have to work on haul roads. Display suitable warnings where drivers can see them in good time; cone off the area ; wear fluorescent or reflective clothing.
+
+5.	Engage low gear, and wherever practicable drive the vehicle  up  or down a slope rather than across.
+
+6.	Provide passageways of suitable widths and steps or stairs of suitable construction for the safe passage of persons and materials.
+ 
+ 
+
+7.	Properly maintain all floors, passageways, doorways, steps and stairs to ensure that they are free from any obstructions, protruding objects, slippery substances and other materials that may constitute tripping and slipping hazards.
+
+8.	Provide and maintain an rigid hand-rail or other suitable hand­ hold with intermediate barriers on every staircase to prevent people falling through the open side.
+ 
+
+ 
+ 
+
+2.1.3	Ventilation, Temperature and Lighting
+
+1.	Circulate fresh or artificially purified air at the rate of not less  than 3 air changes per hour for enclosed workplaces.
+
+2.	Provide and maintain an efficient mechanical exhaust system at the point of origin of the dust or fume or other impurities to prevent it from polluting the air in the workroom.
+
+3.	Maintain a reasonable temperature in every  workplace.
+
+4.	Provide and maintain suitable and sufficient  lighting,  either natural or artificial, in every part of the premises  in  which  persons work or pass.
+
+5.	Ensure that windows and skylights used for lighting are  kept clean and free from obstruction.
+
+6.	Install all lighting systems in such a way as to ensure even distribution and absence of glare.
+
+7.	The light contrast should not be more than 30% between the workplace and the surrounding.
+
+The following light intensities may be taken for reference : Purpose	!Light intensity at the place  of work	
+General work areas, site clearance		50 lux Craft work: concreting, scaffolding	100 lux
+Fine craft work: joinery, work with power tools,
+plastering, electrical, plumbing shopfitting	300 lux Workshop	600 lux
+Site drawing office	750 lux
+Precision	1000 lux
+
+Note: The above referenced light intensities are for both indoor and outdoor, and to be adjusted according to district brightness.
+ 
+ 
+
+8.	Emergency lighting shall be provided to escape route and workplaces where needed.
+
+9.	Low voltage should be used for temporary lighting, particularly  in confined and damp conditions.
+
+
+
+2.1.4	Fire Prevention (see Chapter 5)
+ 
+ 
+
+2.1.5	Housekeeping	(Figures 2.1.5 – 1 to 3 refer)
+
+1.	Maintain lockers, mess rooms, canteens and washrooms in a clean and sanitary condition at all times.
+
+2.	Keep all passageways, staircases, landings, and means of escape clear and unobstructed at all time.
+
+3.	Stack raw materials and finished products clear of passageways and means of escape.
+
+4.	Do not leave tools on the floor, or in any  location  where  they can be easily dislodged. Provide proper storage, such as tool boxes or containers for tools and equipment.
+
+5.	Do not obstruct lighting and ventilation, any electrical power  point and fire fighting equipment.
+
+6.	Keep windows and light fittings clean.
+
+7.	The floors of workplaces should be kept dry and in a non- slippery condition.
+
+8.	Provide and maintain proper drainage system to prevent water ponding.
+
+9.	Use metal bins for oily and greasy rags and store all highly flammable materials in appropriate bins, racks or cabinets. The metal bins for storing oily and grease rags should be covered with lids.	(Figure 2.1.5 - 1 refers)
+
+10.	Protruding nails in boards or walls should be removed or bent over so that they do not constitute a hazard to people.
+(Figure 2.1.5 - 2 refers)
+
+11.	Store dangerous chemicals in the dangerous goods stores of the appropriate category.	(Figure 2.1.5 - 3 refers)
+
+12.	Post “No smoking" signs in areas with high fire risks e.g. paint stores, woodworking area, etc.
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2.1.6	Noise Control	(Figures 2.1.6 – 1 to 2 refer)
+
+Some indications that the noise level at a workplace may cause damage to hearing:
+(a)	you have to shout to be heard;
+(b)	your hearing is dulled just after work;
+(c)	you get head noises or ringing in the ears after work;
+(d)	you have difficulty hearing people while others are talking; and
+
+1.	Use sound level meters to measure A-weighted sound level; units expressed in dB(A). Preventive measures should be taken where an employee is likely to be exposed to a daily personal noise exposure of 85dB(A).
+
+2.	Prolonged exposure to noise over 90 dB(A) can cause permanent hearing loss. Excessive noise can cause  a person  to be irritable and tired. It also increases the chance of accidents as it distracts and makes it harder to hear warnings of alarms by persons.
+
+3.	Personnel should be made aware of noisy areas by suitable warning signs and the requirement of wearing suitable ear protectors. Where the daily personal noise exposure may exceed 90dB(A), the area shall be identified and demarcated as an Ear Protection Zone.
+
+4.	Whenever possible, reduce noise at source by improved maintenance, replacing noisy machines by  quieter  ones, screening with noise absorbing material, making changes to the process, controlling machine speeds, using cutting oils and hydraulic breakers.
+
+5.	Appoint a competent person to carry out a detailed noise assessment of the workplace and designate ear protection zone. He/she shall give instructions on the necessary precautionary measures to be observed by the site personnel, including the use of suitable types of ear protections.
+ 
+ 
+
+6.	Wear and maintain ear muffs and ear plugs in accordance with the manufacturers’ instructions. Ear muffs and ear plugs shall be of types approved by the Labour Department.
+
+7.	The following tables gives a general guide on noise levels and exposure time ­
+
+Permissible Noise Exposure
+Sound level dB(A)	Duration (hours/day)
+90	8
+92 (air compressor)	5
+95 (air drill)	2.5
+97	1.6
+100 (machine shop)	0.8
+102	0.5
+105 (circular saw)	0.25
+115 (diesel engine)	0.025
+
+Note : In accordance with the Construction Site Safety Manual (CSSM) Chapter 3, Appendix III- Particular  Specification  on site safety, Clause 14 (13), approved ear protectors shall be provided whenever the noise level exceeds 90 dB(A).
+
+8.	In construction or repair work, noise should be kept to a low level bearing in mind the disturbance to local residents.
+
+9.	Keep doors of mechanical engineering plant closed.
+ 
+
+ 
+
+ 
+ 
+
+2.1.7	Dust Control
+
+1.	The common hazardous dusts which may be encountered on site are : asbestos dust; silica dust; cadmium dust; lead dust; PFA, gypsum, cement, stone-fines and saw dust.
+
+2.	Control dust hazard by having materials precut off-site; by isolating dust work; by removing the dust at source using local exhaust ventilation and/or vacuum cleaners; and by watering.
+
+3.	All exposed persons must wear appropriate respiratory protection equipment (see Section 7.6). Nevertheless, respirators are not an effective means of control for persons doing heavy manual work.
+
+4.	Removal of asbestos materials shall be carried out by a  specialist contractor under the supervision of a competent asbestos supervisor.
+
+5.	Screen or cover loose materials.
+
+6.	Clean up mud and slurry spills before they dry up and become airborne.
+
+7.	Use a vacuum instead of an airline to clean out formwork.
+
+8.	Use water to damp down concrete when drilling for starter bars or scabbling.
+
+9.	Use a proper mixer for concrete, plaster and bentonite.
+ 
+ 
+
+2.1.8	Welfare Facilities	(Figure 2.1.8 –1 refers)
+
+1.	Provide suitable clothing for those who have to work  in wet, dirty or under other adverse conditions.
+
+2.	Provide facilities for showering, changing, drying and storing clothes, if the situation warrants.
+
+3.	Provide shelters and facilities for meal.
+
+4.	Provide drinking water.
+
+5.	Provide first aid box and adequate rescue equipment.
+
+6.	Provide sufficient toilet and washing basins/facilities.
+ 
+
+ 
+ 
+
+2.1.9	Protection Against Adverse Weather
+
+1.	Wear suitable protective clothing including a  safety  helmet  with chin straps, rubber boots and overalls or coveralls.
+
+2.	Be alert for falling and flying objects and take extreme care when working in rear lanes.
+
+3.	Be aware of possible hazardous locations including slopes, watercourses, nullahs, culverts and flooded areas.
+
+4.	Keep clear of trees, overhead power line poles, exposed open space or high level areas in the event of lightning.
+
+5.	Work in isolated locations in pairs of two persons as far as possible.
+
+7/ Maintain communication with controllers and abide by the relevant Departmental Instructions on Emergency Procedures and Organisation.
+
+7.	Provide and maintain proper drainage system, temporary surface channels and sump pits.
+
+8.	Provide precautionary measures against heavy rain, such as temporary surface protection and temporary drains for soil slopes under construction.
+
+9.	Prevent ingress of surface water into excavations, and  trenches.
+
+10.	Isolate all electrical circuits not in use.
+ 
+ 
+
+2.2	Scaffolding and Working Platforms
+
+All scaffolds shall be inspected by a competent person prior to their being put into use for the first time, after erection or alteration, at bi­ weekly interval and after exposure to adverse weather conditions. The competent person shall report on the prescribed form (Form 5 of CS(S)R 38 F) to the contractor that the scaffold, including its associated working platforms is safe for use. Working platform shall  be checked to ensure that the platform is of an appropriate width (minimum 400 mm (for workers) or 650 mm (for workers and materials)) and closely boarded with planks of adequate thickness. The boards shall be free from patent defects, and be evenly supported to prevent tipping. Unsafe scaffolds,  partially  erected/dismantled  or under repair, shall be prevented from being use, and warning signs to such effect shall be posted at conspicuous positions on the scaffolds. Mixing brands of modular scaffolding should be avoided as  mismatched combinations pose a significant threat to safety.
+
+Competent person for scaffolding work refers to a person who has substantial training and practical experience. He should have satisfactorily completed a formal training in scaffolding work such as CITA or VTC training course/programme, and have 10 years or more experience in scaffolding work ( inclusive of experience under the formal training period).
+
+Trained workman for scaffold work refers to a person who has satisfactorily completed a formal training in scaffolding work equivalent to those for a competent person and possesses at least 3 years of experience in scaffolding work ( inclusive of experience under the formal training period). He should work under the immediate supervision of a competent person.
+
+2.2.1	Independent Tie Scaffolds	(Figures 2.2.1 - 1 refers)
+
+This type of scaffold is not completely independent of the building or structure. The scaffold itself carries its own weight and the full weight   of all loads placed upon it down to the ground, but it must be tied to  the building to obtain stability and to prevent any possible movement    of the scaffold towards or away from the building.
+ 
+ 
+
+1.	Bases and ground conditions shall be adequate for the loads. Avoid supporting on pavement lightings, manhole covers and nearby excavation.
+
+2.	Ensure that the scaffold and every part of it are
+(a)	of good conditions;
+(b)	made of strong and sound materials;
+(c)	free from patent defects; and
+(d)	erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person.
+
+3.	Check that the following are in order ­
+(a)	line of standards and ledgers;
+(b)	spacing of transoms;
+(c)	even support and line of boards;
+(d)	guardrails and toe boards;
+(e)	longitudinal and ledger bracing;
+(f)	security and correct use of all fittings (couplers);
+(g)	number, positions and security of ties;
+(h)	security of stacked materials; and
+(i)	means of access.
+(j)	maximum height of scaffold permitted.
+
+4.	Do not overload the scaffold.
+ 
+
+ 
+ 
+
+2.2.2	Birdcage Scaffolds	(Figures 2.2.2 - 1 refers)
+
+Birdcage scaffolds are normally used for interior work in larger  buildings like factories, public halls, cinemas or churches to provide access to ceilings, walls or soffits. They have a single working platform and are suitable for light work, such as painting, plastering and decorating.
+
+1.	Ensure that the scaffold and every part of it are
+(a)	of good conditions;
+(b)	made of strong and sound materials;
+(c)	free from patent defects; and
+(d)	erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person.
+
+2.	Check that the following are in order ­
+(a)	line of standards and ledgers;
+(b)	line and spacing of transoms;
+(c)	support and line of boards;
+(d)	guardrails and toe boards;
+(e)	diagonal bracing;
+(f)	security and correct use of all fittings (couplers);
+(g)	ties;
+(h)	adequate slenderness ratio and the maximum permitted height of scaffold;
+(i)	means of access;
+(h) base supports and ground conditions.
+
+3.	Do not overload the scaffold.
+ 
+
+ 
+ 
+
+2.2.3	Putlog Scaffolds	(Figure 2.2.3 - 1 refers)
+
+Putlog scaffolding is mostly used where brick structures are  being  built. It is often called a brick-layer’ s scaffold or a single scaffold. It depends for its support on the wall of the building on its inner side and a row of standards on its outer side.
+
+1.	Ensure that the scaffold and every part of it are
+(a)	of good conditions;
+(b)	made of strong and sound materials;
+(c)	free from patent defects; and
+(d)	erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person.
+
+2.	Check that the following are in order ­
+(a)	line of standards and ledgers;
+(b)	line and spacing of transoms;
+(c)	support and line of boards;
+(d)	guardrails and toe boards;
+(e)	diagonal bracing;
+(f)	security and correct use of all fittings (couplers);
+(g)	ties; and
+(h)	means of access.
+
+3.	Do not overload the scaffold.
+ 
+
+ 
+ 
+
+2.2.4	Mobile Scaffolds	(Figure 2.2.4 - 1 refers)
+
+Mobile scaffolds arise from the needs of painters and others who do lightweight work for a structure that can readily be moved from place   to place. Mobile scaffolds take the form of towers made of normal steel tube and fittings and mounted on wheels, with one working platform, the dimensions of which are normally equal to, or less than  the corresponding base dimensions.
+
+1.	Ensure that the scaffold and every part of it are
+(a)	of good conditions;
+(b)	made of strong and sound materials;
+(c)	free from patent defects; and
+(d)	erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person.
+
+2.	Every wheel of a mobile tower shall be fitted with a locking device that cannot be accidentally released. Ensure  that  all wheels are securely locked before the scaffold is used.
+
+3.	The wheels shall be securely fixed to the uprights so that they cannot fall out even they are not in contact with the ground.
+
+4.	The scaffold shall not be moved when people or materials are on the working platform.
+
+5.	The scaffold shall only be moved at the base.
+
+6.	The ratio of height to least base dimension should  not exceed 3:1 for outdoor work, or 3.5:1 for indoor work, unless tied to suitable fixed points.
+
+7.	Minimum width of the scaffold at base shall be 1.2 m.
+
+8.	Ensure that the working platform is –
+(a)	closely boarded and evenly supported;
+(b)	provided with guardrails and toeboards;
+(c)	erected and used on firm and level ground; and
+(d)	securely anchored where necessary, e.g. under windy condition.
+ 
+ 
+
+9.	Ensure that the ladder access is properly secured and attached to the narrow side of the mobile scaffold . Internal ladder access is preferred.
+
+10.	Fence off the affected area and display a suitable warning notice to warn people and nearby traffic.
+
+11.	Do not overload the scaffolds.
+
+12.	Outriggers if provided should be fully extended and properly fixed.
+ 
+
+ 
+ 
+
+2.2.5	Truss-out Scaffolds	(Figures 2.2.5 - 1 to 2 refer)
+
+Truss-out scaffolds are generally used where it is impossible, or inadvisable, to build up from ground level as, for example, for repairs    to a parapet wall, or for work on upper windows in a tall building on a busy street. Truss-out scaffolds are supported by horizontal tubes protruding through windows or similar openings, anchored within the building to vertical tubes securely strutted between the ceiling and  floors. Simple truss-outs are only intended for very light work and should not be loaded with materials unless designed accordingly.
+
+1.	Ensure that the scaffold and every part of it are
+(a)	of good conditions;
+(b)	made of strong and sound materials;
+(c)	free from patent defects; and
+(d)	erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person.
+
+2.	Check that the following are in order ­
+(a)	security of supporting structural members;
+(b)	spacing and stability of back struts;
+(c)	all connections between tubes made with right-angle couplers;
+(d)	angle of the inclined load bearing tube, the raker, do not exceed 30o from vertical;
+(e)	correct position of check couplers;
+(f)	line of standards and ledgers;
+(g)	spacing of transoms;
+(h)	even support and line of boards;
+(i)	security of boards, guardrail and toeboards;
+(j)	diagonal and longitudinal bracing;
+(k)	ties;
+(l)	security and correct use of couplers;
+(m)	standards to be raised within 300 mm of the rakers supporting the truss or loading transmitted back to these points;
+(n)	outer standards and rakers fitted with check couplers.
+
+3.	Do not overload the scaffold.
+ 
+
+ 
+
+ 
+ 
+
+2.2.6	Ladders
+
+1.	Use ladders only for simple work of short  duration.  They  should be use primarily as a means of access and NOT as a working platform.
+
+2.	Ladders shall be of good construction with no missing or defective rungs, of sound material and of adequate strength for the purpose for which it is used and is properly maintained.
+
+3.	Only erect ladders on a firm and level base.
+
+4.	Do not erect straight ladder at a base angle exceeding 75 degrees or a 4 (rise) : 1 (base) ratio. (Figures 2.2.6 – 1 refers)
+
+5.	For vertical access ladder, provide a landing point for rest purposes every 9 m.
+
+6.	Secure a straight ladder at the top.  When  it is impracticable  to do so, firmly secure the ladder at the base by some effective means or by any person.
+
+7.	Rise ladders at least 1.05m for handhold above  their  landing place or above the highest rung.
+
+8.	The rungs shall be free from moisture, dirt and grease.
+
+9.	The footwear of the user shall be in good condition and free  from moisture, dirt and grease.
+
+10.	Securely lock the spreaders of a step ladder in position. Do not use a step ladder as a straight ladder.
+
+11.	Always spare one hand to hold the ladder firmly. Never  lean  over or stretch out to reach the work.
+
+12.	Always face a ladder when going up or down and use  both hands to grasp the rungs for support. Do not carry tools or materials in hand when climbing up or down. If necessary, use a tool holster to carry hand tools to spare hands for holding the ladder.
+ 
+ 
+
+13.	Use wooden or fibre-glass ladders for electrical work or when working near electrical conductors, etc.
+
+14.	Do not use aluminium ladders or other ladders which are electrically conductive for electrical work unless they have been fully insulated especially at footing of the ladder.
+
+15.	Wear safety harness with lanyard anchored properly when working on the ladder at height of 2m or more if the provision of working platform is not reasonably practicable.
+
+16.	Inspect the ladder for any defects before each use. Do not use wooden ladder that has been painted as painting may cover up the defects. Display warning label to the defective ladder.
+
+17.	Avoid step on the top two rungs of an A-shape ladder.
+ 
+
+ 
+ 
+
+2.2.7	Bamboo Scaffolds	(Figure 2.2.7 - 1 refers) Materials
+1.	The effective diameter of bamboo used as standards should not be less than 75 mm. (see Figure for details)
+
+2.	The effective diameter of bamboo used as ledgers on the first lift of the scaffold should not be less than 75 mm (see Figure for details)
+
+3.	For the rest of the ledges, and all the transoms/putlogs, bracing and rakers of the same scaffold, the effective diameter of bamboo used should not be less than 40 mm. (see Figure for details).
+
+4.	The effective diameter of a bamboo refers to the smallest external diameter found along a piece of bamboo.
+
+5.	Bamboo used in the construction of scaffolds should be straight, sound and free from cracks, gnarls, irregular knots, dry rot, worm-eaten spots and other defects affecting the strength of the bamboo.
+
+6.	Bamboo of suitable years of growth, generally 3 to 4 years, should be used for scaffolding.
+
+7.	The tie wires shall be strong enough and weather-resistant. The bamboo and the tie wires shall be checked regularly and any defective bamboo and tie wires due to the adverse effect of the weather shall be replaced immediately.
+
+
+Construction
+
+1.	The height of the bamboo scaffold should not be higher than the topmost part of the building/structure by one storey.
+
+2.	For building works, provide a safe working  platform  which could be achieved by erecting double row scaffold.
+ 
+ 
+
+3.	Scaffold greater than 15 metres (m) in height should be certified by a professional engineer.
+
+4.	Distance between two adjacent standards should not be greater than 1.3 m. Distance between two adjacent transoms should not be greater than 0.75 m. Distance  between  two  ledgers  should not be greater than 1.2 m. Height of the boarded lift for forming working platform should be between 1.9 m to 2 m. (see Figure for details)
+
+5.	Working platform on bamboo scaffold should be at least 400 mm wide.
+
+6.	Provide all scaffolds with adequate cross bracing. The horizontal span of each 'X' shaped bracing shall not be greater than 9 m. The members of the 'X' bracing should not be erected at more than 60o from the horizontal.
+
+7.	For bamboo scaffold higher than 7 m, there should be ties to fasten the scaffold securely to the building facade, the horizontal space and vertical space between ties should be less than 7 m and 4 m respectively. Besides, at every tie, a short length of bamboo of effective diameter not less than 40 mm should be connected between the inner scaffold and the building facade to restrict any inward movement of the scaffold.
+
+8.	Overlapping of two bamboo members should be 1.5 m to 2 m for standards, and at least 2 m for ledgers and bracing.
+
+9.	Place materials and tools at the inner side of working  platform  on the scaffold to maintain the stability of the scaffold.
+
+10.	When dismantling the scaffold, start work from upper level to lower level, from exterior to interior and from non-load bearing parts to load bearing parts.
+
+11.	Space between the working platform and the external wall of a building or structure should be as small as possible.
+ 
+ 
+
+12.	The scaffold shall be erected, maintained, altered and dismantled by trained workmen under the immediate supervision of a competent person
+ 
+
+ 
+ 
+
+2.2.8	Builders’ Lifts and Tower Working Platforms General
+1.	Only competent operators who have undergone training as
+stipulated in the Builders' Lifts and Tower Working Platforms (Safety) Ordinance are allowed to operate builders' lifts and  tower working platforms. The competent operator  shall  carry out daily check of the equipment as specified in the Code of Practice on the Design and Construction of  Builders'  Lifts/Tower Working Platforms.
+
+2.	Ensure that all platforms or builders’  lifts  first  purchased  shall be tested with a proof load of at least 125% of rated load (safe working load) and shall be thoroughly examined by a competent examiner, employed by the contractor, who should then issue a certificate with the load test and examination results.
+
+3.	All lift works including preventive maintenance as recommended by the manufacturer shall be carried out by trained workmen employed by a registered contractor in accordance with the Ordinance.
+
+4.	Ensure that the operator checks daily the tyre pressure, hydraulic oil level, operation of the controls, and for any hydraulic oil leakage and visible damages to the hoses and connections, chassis mountings, supports and linkages.
+
+5.	Clearly show the following markings on the platform  and builders’ lifts:
+(a)	the safe working load and the maximum number of persons it may carry;
+(b)	the maximum wind speed exceeding which no operation shall be permitted;
+(c)	the maximum gradient exceeding which no operation shall be permitted;
+(d)	the purpose and method of the operation of all the controls; and
+(e)	the tyre pressure.
+ 
+ 
+
+6.	Do not overload the builders lifts and tower working platforms.
+
+Builders’  Lift	(Figure 2.2.8 - 1 refers)
+
+1.	Protect the builders’ lift by substantial enclosure.
+
+2.	Routine maintenance shall be carried out by trained workmen at intervals not more than 7 days and details of the maintenance works shall be recorded on prescribed forms kept by the registered contractor. The builder's lift shall also be thoroughly examined and tested by a registered examiner at intervals not more than 6 months.
+
+3.	Fit the lift cage with an electrically and mechanically operated locking device. It shall not be possible to start or run the lift  cage unless all lift cage gates are closed. If a lift cage has more than one lift cage gate, each lift cage gate shall have its independent electrically and mechanically operated locking device.
+
+4.	Protect the electrically and mechanically operated locking device of the lift cage gate against operation by unauthorised persons.
+
+5.	In the case of a lift cage gate with hinged joints at its lower edge, the lift cage gate shall not be used as a gangway for loading and unloading of passengers and/or materials.
+
+6.	Provide the lift cage with an emergency opening either as a door in the lift cage (width and height at least 400mm and 1,800mm respectively) or as a trapdoor in the lift cage roof (width and length at 400mm and 600mm respectively). Provide a ladder inside the lift cage giving access to the emergency trapdoor if an emergency trapdoor is provided.
+
+7.	Provide a safety switch to interrupt the control circuit and  prevent the movement of the lift cage if the emergency door or trapdoor is not properly closed and locked.
+ 
+ 
+
+8.	The emergency trapdoors and emergency doors shall be provided with a means for manual locking. They shall be opened from outside the lift cage without a key and from inside the lift cage with a removable key. The key shall be kept by the competent operator inside the lift cage at all times during operation of the builders’ lift.
+
+9.	The landing platform shall be either closely boarded, planked or plated, or shall be of a platform consisting of open metal work having interstices none of which exceeds 38 cm2 in area.
+
+10.	Provide a landing gate for every access to the lift cage. Landing gates shall be rigid and shall not open towards the liftway.
+
+11.	Provide the lift cage and the landing platform with  electric  lighting that can provide a light intensity of at least 50 lux at floor level and at the controls.
+
+12.	Provide every landing with a call button for the passenger to activate an electric bell located at a specified location (usually at the base enclosure or main access) when requesting lift service.
+
+13.	The lift cage shall, during normal operation, be power driven upwards and downwards at all times. Do not allow  the lift cage to descend under gravitational force by  alternatively  applying and releasing the driving machine brake or alternatively opening and closing the restrictor valve during normal operation.
+
+14.	Provide every builders’ lift with an overload sensing device to give clear visual and audio warning signals in the lift cage in case of overloading and over-movement.
+
+15.	Equip every lift cage with an audible alarm device easily recognisable and accessible to the competent operator.
+ 
+
+ 
+ 
+
+Tower Working Platforms	(Figure 2.2.8 - 2 refers)
+
+1.	!!!Tower working platforms  of mobile  type  shall  be equipped  with a level indicator at the chassis to check the levelling of the platform so as to warn the operator not to operate the platform when the site is too steep.
+
+2.	The controls for 'Up' and 'Down' (including 'Forward' and 'Backward' for mobile type) shall be of deadman type. Routine maintenance shall be carried out by trained workmen at intervals not more than 7 days and details of the maintenance works shall be recorded on prescribed forms kept by the registered contractor. The tower working platform shall also be thoroughly examined and tested by a registered examiner at intervals not more than 6 months.
+
+3.	Provide an emergency stop on the control panel of a platform, which must stop all motions of the platform when it is operated.
+
+4.	Provide an emergency lowering device which shall be operated from a safe but easily accessible location on the platform and the location of which shall allow the best possible view of the travel area so as to bring the platform down at controlled speed in the event of emergency operation.
+
+5.	Provide an overload and overmoment sensing device which should give out audible and visible alarms to warn the operator if the load/moment exceeds 110% of the rated load/moment of the platform and that the device shall render the machine inoperative when the device is activated.
+
+6.	Ensure that, if pre-warning alarm is installed, it will not be activated at a setting below 90% of the safe working load. The pre-warning audible alarm shall be distinguishable from the audible alarm mentioned in paragraph 5 above and that it shall be activated for not more than 5 seconds.
+
+7.	Means shall be provided to keep the platform in horizontal position (better than ² 2o) during operation.
+ 
+ 
+
+8.	Do not operate a working platform on any gradient  exceeding  the limit permitted.
+
+9.	Select a working platform that can provide the reach required.
+
+10.	Operate a working platform on a firm ground.
+
+11.	Check the surrounding and take steps to avoid any possible collision with any building or structures, particularly overhead electric power cables.
+
+12.	Do not move the chassis unless the platform is at its lowest position for transfer motion.
+
+13.	Fence off the work area and take steps to warn people or traffic passing by.
+
+14.	The maximum extension of the auxiliary platform of fixed type shall not be more than 1,800mm while that for mobile  type it  shall not be more than 1,000mm.
+
+15.	Workers on the platform shall not lean over the fence to reach out. If it is not reasonably practicable to do so, the workers leaning over the fence shall wear a safety belt or safety harness with its lanyard attached to a secure point.
+
+16.	Display warning notices in Chinese and English conspicuously at areas accessible to the platform from the building side to warn any person working on the building floor adjacent to the liftway  of the danger of being struck by the moving platform on each floor.
+
+17.	Equip every platform with an audible alarm device which can be easily recognisable and accessible to the competent operator.
+ 
+
+ 
+ 
+
+2.2.9	Suspended Working Platform	(Figure 2.2.9 - 1 refers) General
+1.	It is the duty of the owner of suspended working platform to
+ensure that every operation of the suspended working platform   is safe and without risk to health to the personnel working inside or nearby the working platform.
+
+2.	A safe system of work should be established by the owner, with the advice of safety professionals and relevant personnel for every operation. The safe system of work should be monitored and supervised by a competent person.
+
+3.	A competent person is responsible for on-site inspection on the installation and use of the suspended working platform.
+
+4.	The working personnel should possess the skill to operate the working platform safely and have obtained a  certificate  of training issued by the person who provided the training.
+
+5.	Ensure that all platforms first purchased shall be tested with a proof load of at least 150% of the safe working load. They shall be thoroughly examined by a competent examiner, employed by the contractor, who should then issue a certificate with the load test and examination results.
+
+6.	All parts of the suspended working platform should be properly maintained by a competent person in accordance with the manufacturer's instructions.
+
+7.	Ensure that necessary licences and wayleaves are  obtained  before work commences.
+
+8.	Liaise with building occupants regarding the dangers of opening non-sash type windows when suspended platforms are in use. Also inform the building management or the responsible person that the power supply to the platforms should not be disconnected when in use.
+ 
+ 
+
+9.	Warn operatives of the danger of open windows or other projections from the face of the building when operating suspended platforms.
+
+10.	Check suspended platform roof beams, counterweights and fixings and ensure that these are as originally installed for the suspended working platform. Thoroughly examine the working platform in the immediately preceding 6 months before it is put into use by a competent examiner, and inspect it in the immediately preceding 7 days before its use by a competent person. The results shall be reported on the prescribed forms stipulated in the FIU (Suspended Working Platform) Regulation.
+
+11.	Ensure that supporting ropes are reeled correctly into winding  drums and over all pulleys and guides.
+
+12.	Ensure that ropes are secured correctly at anchor ends.
+
+13.	Ensure that safety ropes, when fixed, are similarly checked.
+
+14.	Ensure that all safety equipment - stops, override switches, brakes, communication device, etc. are operational.
+
+15.	Check power supply and all electrical cables and connections to ensure that they are in good working order.
+
+16.	Ensure that supporting ropes are not kinked or damaged before using the equipment.
+
+17.	Check that control buttons and emergency buttons/switches function correctly.
+
+18.	Take precautions to protect safety wires or suspension ropes from arc welding operation or other hot work as intense heat causes damage to or fracture of the wires or ropes.
+
+19.	Secure hand tools to the platform wherever practicable.
+
+20.	Report all breakdowns or malfunctions to the supplier, and stop using the equipment.
+ 
+ 
+
+21.	Draw up an emergency procedure in case of accident.
+ 
+
+ 
+ 
+
+2.3	Work in Confined Spaces
+
+1.	A confined space is any place in which, by virtue of its enclosed nature, there arises a reasonably foreseeable "specified risk", and without limiting the generality of the foregoing, includes any chamber, tank, vat, pit, well, sewer, tunnel, pipe, flue, boiler, pressure receiver, hatch, caisson, shaft or silo in which such risk arises.
+
+2.	"Special Risk" (as stipulated in FIU (Confined Spaces) Reg.) means a risk of ­
+(a)	serious injury to any person at work arising from a fire or explosion;
+(b)	the loss of consciousness of any person at work arising from an increase in body temperature;
+(c)	the loss of consciousness or asphyxiation of any person at work arising from gas, fume, vapour or the lack of oxygen;
+(d)	the drowning of any person at work arising from an increase in the level of liquid; or
+(e)	the asphyxiation of any person at work arising from a free flowing solid or the inability to reach a  respirable environment due to entrapment by a free flowing solid.
+
+3.	A confined space may be :
+(a)	a completely enclosed structure with limited access through a manhole, e.g. a fuel tank, a water tank, a boiler, an air receiver and vessel, a pressure filter, a hydraulic tank;
+(b)	a structure or vessel of such a depth as to require special means of entry or an emergency exit, with its top usually open, e.g. manhole, an inlet float valve chamber, a washout chamber, a control or sectional valve chamber, a meter chamber, a break pressure tank, a wash water tank;
+(c)	a structure or ducting of sufficient length with inadequate cross ventilation, e.g. tunnel, pipeline, flue, duct, caisson shaft, silo and culvert; or
+(d)	a room or an enclosed area in which dangerous fumes such as toxic, flammable, explosive or corrosive fumes are present, e.g. a digestion tank, boiler, pressure receiver, flow regulating valve house, and enclosed service reservoir, a self-closing valve house, a venturi house.
+ 
+ 
+
+4.	No one shall enter a confined space: (Figures 2.3-1&2 refer)
+(a)	until a “competent person” has carried out a risk assessment of the confined space and appropriate safety measures have been taken;
+(b)	unless he is a “certified worker”;
+(c)	without instruction or permission from the person in charge of the work, who is responsible to ensure that the space is safe to enter;
+(d)	until a permit has been issued by an Authorised Person under a Permit-to-Work system;
+(e)	without one man to guard the opening and keep a close watch at the entrance; and
+(f)	unless it has been ventilated and ensure that ventilation continues until the work is finished.
+
+5.	Competent person is a person ­
+(a)	who has attained the age of 18 years;
+(b)	who is either ­
+i/ a Registered Safety Officer; or
+ii/ a person who holds a certificate as being competent to prepare risk assessment reports; and
+(c)	who has at least 1 year's relevant experience in assessing risk to workers working in confined spaces.
+
+Certified worker is a person ­
+(a)	who has attained the age of 18 years;
+(b)	who holds a certificate as being competent to work in a confined space.
+
+
+6.	Formulate and implement emergency procedures. Provide and keep readily available in satisfactory condition sufficient supply of ­
+(a)	breathing apparatus of an approved type, at least two sets at one location;
+(b)	a safety lamp or torch for each breathing apparatus;
+(c)	safety harnesses and lifelines for rescue operations;
+(d)	a stretcher and reviving apparatus;
+(e)	audio and visual alarm for alerting others outside confined space; and
+(f)	vessels containing oxygen or air.
+ 
+ 
+
+
+Ensure sufficient number of persons who know how to use the safety equipment are present when work is taking place in the confined space.
+
+7.	Check the air within a confined space using a multi-gas detector suitable for checking oxygen content and the presence of hazardous or combustible gases. Provide ventilation by mechanical means with clean air where there is likely to be dangerous gases, vapours, mists, fumes, dusts, oxygen deficiency or extreme temperature. Monitor and test the confined space at regular intervals to ensure the continued safety of the workers.
+
+8.	Wear an approved type of breathing apparatus, harness and lifeline when entering a confined space where toxic gas has been suspected.
+
+9.	Do not take matches or lighters into a confined space.
+
+10.	Do not smoke or use a naked light in a confined space or near openings leading to it.
+
+11.	Do not take cylinders of oxygen or other gases into confined spaces.
+
+12.	Ensure adequate fire fighting equipment is readily available.
+
+13.	All electrical equipment used in confined spaces shall be either   of explosion-proof type or intrinsically safe type. Do not introduce a portable light or other electrical equipment, except of an approved safety type, into a confined space until it has been positively ascertained that it is safe to do so.
+
+14.	Do not make an entry when there is a possibility of a cave-in of materials.
+
+15.	Physically disconnect and block off all lines and systems that may introduce hazardous materials into a confined space.
+ 
+ 
+
+16.	Ensure that a confined space is secured against ingress of injurious substances.
+
+17.	Raise the alarm at once in a gassing incident. Immediately send someone to summon the rescue team and to inform the person­ in-charge. Do not enter such a space without wearing breathing apparatus.
+
+18.	Always make sure that valves or gates are locked off and  nobody can open them by chance if it is necessary to work inside an isolated installation, such as a sewage digestion tank.
+
+19.	Ensure effective means of communication between the workers inside the confined space and the standby person at the entrance.
+ 
+
+ 
+
+ 
+ 
+
+2.4	Excavations	(Figures 2.4 - 1&2 refer)
+
+1.	Ensure that the excavations are inspected daily and thoroughly examined by a competent person on weekly basis. Report on the prescribed form (Form 4 CS(S)R) for excavations exceeding 1.2m deep.
+
+2.	Ensure an adequate supply of suitable timber or other shoring material and that they are installed in accordance with planned method/method statement.
+
+3.	Ensure that the working faces are secure or protected, and the workers working in the trench are protected against falls of earth and material, etc.
+
+4.	Provide suitable ladders for access/egress into and from the excavated trench and gangway across the trench where necessary.
+
+5.	Ensure that the means of access/egress is sufficient and secure and arrangement is in place to deal with flooding.
+
+6.	Provide an adequate supply of suitable barriers and traffic notices, and ensure adequate protection and warning are provided for members of the public.
+
+7.	Ensure that the loads, plants or materials are not placed near the edge.
+
+8.	Ensure that the location of all underground services has been established and marked. Ensure that they are securely supported and protected once they are exposed.
+
+9.	Erect adequate fencing and warnings at edges of excavations when the depth is greater than 2m.
+
+10.	Ensure that workers are not swinging picks, etc. in close proximity to one another and are not working within  the radius  of an excavator jib.
+ 
+ 
+
+11.	Provide stop block for vehicles near edge of excavations.
+
+12.	Beware of the accumulation of gas when excavating in the vicinity to gas mains and landfill areas.
+ 
+
+ 
+
+ 
+ 
+
+2.5	Work Over or Near Water	(Figures 2.5 - 1&2 refer)
+
+1.	Select known swimmers whenever possible when choosing workers.
+
+2.	Never inspect or work alone, always work in a team of at least two.
+
+3.	Ensure that there are adequate signs to warn of deep water.
+
+4.	Provide edge protection, including guard rails and toe boards.
+
+5.	Provide suitable rescue equipment including life buoys with rescue lines at intervals along water front, and training and instruction in their use.
+
+6.	Keep platforms and ladders clean and clear of debris, slime and tripping hazards.
+
+7.	Provide safety nets to arrest falls where standard working platforms or harnesses cannot be provided.
+
+8.	Ensure that safety lines and harnesses are used in conjunction with temporary ladder access over water.
+
+9.	Never enter an installation where water is flowing, e.g. flow mixing chambers.
+
+10.	Never overload a boat, act silly or rock the boat.
+
+11.	Always wear life jacket. Self-inflatable type life jacket is preferable as the workers may lose his consciousness after falling into water.
+
+12.	On tidal water or fast flowing rivers, a power-driven rescue boat should be provided. (See figures).
+ 
+
+ 
+
+ 
+ 
+
+
+2.6	Work on Slopes	(Figure 2.6 - 1 refers)
+
+The common causes of accidents on slopes are due to fall of persons from height, sudden landslide or earth movement and improper use of mechanical equipment.
+
+1. A risk assessment with particular regard to the condition of the slope and nearby work environment should be conducted by a professional engineer with geotechnical engineering background and relevant experience for the purpose of formulating an effective safety plan. The assessment should be conducted before work commencement and reviewed during the course of work.
+
+3/ A competent person preferably with sound geotechnical engineering background and experience should be appointed on site to assume overall supervision of the implementation programme. Ensure that his instructions are strictly followed by all site personnel.
+
+4/ For any unstable slope with imminent risk of sudden collapse, adequate measures should be taken to prevent any personnel from accessing dangerous area(s) on the slope. If emergency work has to be carried out on the slope, an experienced supervisor should be assigned to watch out for any possible sudden danger. Suitable alarm system(s), such as high-power siren or hand-held gongs, should be provided to alert all site personnel in case there is any sign of undue earth movement.
+
+4.	Provide crest channels to divert storm water runoff and ground seepage because they may adversely affect the stability of the slope. Protect all open cut slope face with tarpaulin sheet or  other impervious membrane against inclement weather.
+
+5.	Suitable temporary protection measures, e.g.,  barrier  at the toe of slope, should be considered for preventing workers from being endangered by falling or displacement of earth or rock materials.
+
+6.	The slope work, including any structure erected, should be examined by a competent person as and when the site
+ 
+ 
+
+conditions warrant and in any case at least once in every 7 days. Further examination shall be carried out where there is indication that the slope may have been affected  by weather conditions. No further work should be allowed unless the competent person has considered that the slope is safe. Do not carry out slope remedial work unless other precautionary measures adequate for ensuring the safety of the persons engaged in such work have been taken.
+
+7.	Provide a suitable barrier at the edge from which a person is  liable to fall more than 2 metres.
+
+8.	Do not place or stack material close to the edge of a slope.
+
+9.	Do not place load or move plant near the edge of a slope to  avoid inducing excessive stress onto the slope.
+
+10.	Provide suitable working platforms whenever workers are at risk of falling of more 2 metres. If this is not practicable, suitable safety nets, and safety belts (preferably safety harnesses) attached to suitable anchorage points should be provided. Note that safety belts anchored to suitable anchorage points should only be used as a last resort.
+
+11		Where lifelines are used and where anchorage points  are reliant on certain projections or any parts of the slope or certain temporary fixtures of any structure around, they should be checked regularly for damage or change in stability which may have been induced as the work progresses.
+
+12.	Ensure that workers are adequately trained in the proper use of all personal protective equipment provided for their use.
+
+13.	Ensure that safe access for the work is provided which should include, where practicable, suitable stairway with handrails at different levels of the slope for the purpose of maintenance and inspection.
+
+14.	Ensure that the ground on which excavators or other mechanical equipment sit is stable and that the ground is compacted and can withstand the weight.
+ 
+ 
+
+15.	Ensure that lifting appliances are stationed on level ground.
+
+16.	Ensure that all plant and machines are well maintained and operated by operators who have been properly trained and are competent to carry out works on slopes.
+ 
+
+ 
+ 
+
+2.7	Road Works	(Figure 2.7 - 1 refers)
+
+1.	Always consider the safety and interest of the road users.
+
+2.	Ensure that adequate number of traffic signs, cones, barriers, lighting and publicity signs are provided.  Cones  shall  be provided on carriageway to delineate the boundaries of all road works while barriers shall be provided for the protection of pedestrians/work zones.
+
+3.	Wear high visibility/fluorescent jackets,  and  safety  helmets. They are more noticeable to drivers.
+
+4.	Provide measures to divert traffic temporarily in accordance with the Code of Practice for Lighting, Signing and Guarding of  Road Works.
+
+5.	Whenever possible, the following safety clearance should be maintained between the works area and the  trafficked carriageway ­
+Clearance (m)	Traffic approach speed
+0.5	up to 85 km/h
+1.2	over  85 km/h
+
+Where it is impractical to provide such a safety clearance, consideration should be given to devising alternative methods of working, providing work zone protection barriers or methods of reducing traffic speed at the approach to the road work section.
+
+6.	Take care not to disturb residents and other persons with undue noise, i.e. hammering, talking or vehicle engine noise while carrying out works at night. Steel cover plates covering trench openings should be cushioned with rubber pads.
+
+7.	Never leave any works area unattended without adequate signing, lighting and guarding.
+
+8.	Do not use barriers with detachable horizontal members made of hard objects on high speed roads.
+ 
+ 
+
+9.	Access must be planned to eliminate dangerous movements of site traffic and site personnel.
+
+10.	Vehicle must be fitted with amber flashing beacons, and/or multiple sequence warning sign (MSWS) as required.
+
+11.	Avoid spillage of water onto the carriageway.
+ 
+
+ 
+ 
+
+2.8	Work on Demolition Sites	(Figure 2.8 - 1 refers)
+
+2/ Ensure that a written method statement has been  prepared  and agreed with the Architect/Engineer. All precautionary measures  are in place before commencement of demolition works. Pay special attention to the demolition of special structures, cantilever, chimney, and pre-stressed structure.
+
+2.	Ensure that a professional engineer has inspected the structure/adjacent structure and a competent person is in charge of the operation.
+
+3.	Obtain information on the building structure, including  its previous use.
+
+4.	Pay attention to the presence of flammable or hazardous substances such as asbestos in insulation, lead in paints and radio-active substances in laboratory equipment. In buildings where carcinogenic chemicals may have been used or  stored such as factory and hospitals, associated hazards shall be identified by an experienced competent person.
+
+5.	Consult the utility companies and disconnect or divert all services. Arrange removal of any tramway attachment.
+
+6.	Ensure that existing floors planned to be used are not over­ loaded. Otherwise, shoring should be installed to support the floors.
+
+7.	Provide sufficient shoring to prevent premature structural collapse or damage to adjacent property.
+
+8.	Ensure that the site is properly enclosed. Scaffold with screen  and catch-fan, and hoarding or covered walkway shall be erected.
+
+9.	Erect warning notices.
+
+10.	Ensure that all ladders, cranes, cables and other equipment are in good order.
+ 
+ 
+
+11.	Ensure that suitable personal protective equipment is provided and used during operation. Suitable anchorage points for safety belts and safety harnesses shall be identified and assessed by competent persons or Professional Engineers.
+
+12.	Ensure that adequate protection and safe access  for the public and workers are provided at all times, including protection from dust and noise hazards. Damp down demolition sites and haul roads.
+
+13.	Provide sedimentation/treatment system to prevent silty/dirty water discharging into water courses or public drains.
+
+14.	Properly plan the daily work. Complete the scheduled work and check the stability condition of the structure under demolition prior to leaving the site at the end of each working day.
+
+
+
+ 
+
+ 
+Chapter 2	Safety and Health of Workplace	2 - 47
+2.9	Work in Tunnels	(Figures 2.9 - 1&2 refer)
+	General Safety Provisions	
+
+1.	Carry out drills on the evacuation and rescue procedure at  regular intervals.
+
+2.	Set up a specially trained fire and rescue team for compressed- air tunnels.
+
+3.	After a break in the work inside tunnel or operation of the ventilation system for several hours, do not enter the  tunnel  unless it is declared safe to enter until the atmosphere of the  entire tunnel has been thoroughly checked.
+
+4.	If explosives are used, the whole tunnel should be evacuated prior to blasting. After blasting, in addition to checking the air quality, examination of the loose rock on the roof and sides should be carried out before it is confirmed and declared safe for entry by workers.
+
+5.	Workers should be properly trained prior to working in compressed air environment.
+
+6.	In the case that the tunnel is accessed through a vertical shaft measures shall be taken to protect and warn workers against falling objects.
+
+7.	Apart from builders’ lift, provide ladderway  with  proper  landings for emergency ingress and egress.
+
+8.	Evacuate the tunnel in the case of ventilation failure or the presence of imminent danger, e.g. collapse of the roof and sides or presence of flammable gas being detected.
+
+9.	If laser is used, a person competent to supervise the safe use of laser shall be appointed to take charge of all the safety issues related to the application of laser.
+
+10.	Provide an effective communication system between all working points in the tunnel and ground level.
+ 
+ 
+
+11.	Place fire extinguishers of appropriate type, rescue equipment such as respiratory protective equipment for escape (self­ contained open-circuit type breathing apparatus), stretcher, first- aid box, etc. at the entrance and strategic locations of the tunnel.
+
+12.	Strictly prohibit smoking, naked fire and other sources of  ignition. Do not allow workers in the tunnel to bring matches or cigarette lighters into the tunnel.
+
+13.	Do not allow welding inside the tunnel, unless it is absolutely essential. If it is unavoidable, the safety officer should issue a hot-work permit to the workers alerting them the hazards and the control measures to be taken prior to work.
+
+14.	Do not store oxygen and acetylene gas cylinders or other dangerous substances, whether they are empty or not, inside the tunnel except those necessary for immediate use.
+
+15.	Ensure that workers in the tunnel are provided with suitable personal protective equipment, e.g. waterproof clothing with reflective strip, rubber boots with steel cap and mid-sole, gloves, ear muff/plugs, mask or other suitable respiratory protection equipment, emergency breathing apparatus (chemical type), helmet fitted with cap light, flameproof torch etc.
+
+16.	In order to avoid ground failure, unsupported area during the course of work should be minimised.
+
+17.	If locomotives are used for transporting muck/wastes out of the tunnel, refuges along the tunnel should be provided at 18 metres intervals to shelter workforce safely while the train passes. The refuges could be cut into the side of the tunnel or be  prefabricated platforms fixed to the tunnel sides with guard rails and can be accessed easily. A minimum clearance of about 500 mm between any part of the transportation means and fixed equipment at the sides of the tunnel should be maintained.
+ 
+ 
+
+
+Working Environment
+
+1.	Continuously monitor the air quality inside the tunnel for oxygen deficiency, carbon monoxide, carbon dioxide, methane,  hydrogen sulphide, nitrous fumes, silica, radon etc.
+
+2.	Provide adequate mechanical ventilation to all working points.
+
+3.	All machines used inside tunnels should be of noise suppression type.
+
+4.	Illuminate all working points including access inside tunnel.
+
+5.	In case of compressed air working, one hundred percents standby capacity of the air compressors should be allowed.
+
+6.	Ensure adequate standby capacities of some essential services, such as water pumps, mechanical ventilation, essential lighting, etc.
+
+
+Equipment and Plant
+
+Horizontal Transportation
+
+1.	If belt conveyors are used for muck disposal, all moving parts should be properly guarded, and continuous trip-wire actuated emergency switches which are easily accessible should be installed at both sides, throughout the whole length of the conveyors.
+
+2.	If locomotive is used inside tunnel, it should be incorporated with the following features:
+(a)	Adequate, effective and fail-safe braking system.
+(b)	Headlights at both ends to enable driver to be aware of obstacles and alert other workers along the rail.
+(c)	An effective ‘ deadman’ control to prevent it runaway.
+(d)	Constructed of non-combustible materials.
+ 
+ 
+
+(e)	The exhaust system incorporated with catalytic reactor to convert the nitrogen oxides in the exhaust gas into nitrogen and water.
+Emergency Power Supply
+1.	In case of supply mains failure, the following services for the tunnel should be powered by emergency generator  not  more than 15 seconds after the supply mains failure:
+(a)	Mechanical ventilation inside the tunnel.
+(b)	Water pumps.
+(c)	Illumination inside the tunnel.
+(d)	Compressors for pressurised tunnels.
+(e)	Signalling and communication system.
+
+2.	Provide visual and audible alarm system to detect and give out alarms should there be any abnormalities and/or interruptions to these services, e.g. failure in the electrical supply and control assessories, isolators for any one of the equipment be switched off accidentally, etc.
+Electrical Equipment and Accessories
+1.	All electrical equipment used inside the tunnel should be of explosion proof type or of intrinsically safe type complying with BS EN 50018 and BS EN 50020 respectively.
+
+2.	All hand-held portable tools should be double-insulated and operated at voltage not exceeding 110 V. In confined and damp environment, the voltage of hand held tools and temporary lighting should not exceed 25V.
+
+3.	Protect all electrical circuits in the tunnel against earth  leakage with appropriate settings.
+
+4.	The insulation of the cables used inside tunnel shall be of zero halogen low smoke emission type, i.e.  comply  with  BS 6724, BS 7211 or BS 7629. PVC insulated cables are forbidden for use inside tunnels.
+
+5.	If switchgear is used inside tunnel, it should be of vacuum or gas insulated type switchgear.
+ 
+ 
+
+6.	Silicone fluid conforms to IEC 836, instead of the flammable mineral oil should be used as insulating liquid in electrical apparatus inside tunnel.
+
+Hydraulic Powered Equipment
+
+1.	The hydraulic oil for the hydraulic plant for use inside tunnel should be of fire retardant type, i.e. comply with BS 7287.
+ 
+
+ 
+
+ 
+ 
+
+2.10	Gas Risk Areas
+
+1.	Test the area with fixed gas detectors in accordance with the relevant operation and maintenance manuals at regular intervals.
+
+2.	Do not work inside an enclosed gas risk area alone.
+
+3.	Obtain a “Permit-to-Work” before working in a gas risk area.
+
+4.	Ventilate an enclosed gas risk area and carry a gas leakage detector before entry.
+
+5.	Use non-sparking hand tools and equipment only in any gas risk areas.
+ 
+ 
+
+2.11	Work in the Vicinity of Gas Pipe
+
+1.	The Gas Safety (Gas Supply) Regulations require that
+(a)	Any persons who work in the vicinity of a gas pipe should take all reasonable steps to identify the  location  and position of gas pipes before commencement of work; and
+(b)	Any persons working in the vicinity of gas  pipes  should take all reasonable measures to protect the gas pipe from damage when carrying out the work.
+
+2.	Follow the guidelines of 'Code of Practice - Avoiding danger from gas pipes' for precautionary measures against damage  to gas pipes.
+ 
+ 
+3.1	Cranes	(Figures 3.1 - 1&2 refer)
+
+1.	Maintain at least 600mm clearance between cranes and obstructions to prevent anyone from becoming trapped. Switch off the engine of the crane when it is left unattended.
+
+2.	Provide barriers to separate cranes from overhead power lines. The barriers shall be at a horizontal distance of at least 6m plus jib length from the power lines. Mark the danger area with permanent stakes or flags and high visibility tape.
+
+3.	When there are several cranes on site they shall be sited clear of each other.
+
+4.	Site the crane away from excavations, slopes, underground services or soft ground with outriggers fully extended. Use grillages to distribute the load where appropriate.
+
+5.	Except for the purpose of training in which case each  trainee shall be under the direct supervision of a qualified  person,  ensure that only trained and competent operators over 18 years  of age who hold a valid certificate recognised by Labour Department (such as a CITA certificate) operate the cranes.
+
+6.	A crane shall not be used if the report on weekly inspection and the report of result of thorough examination and the certificate of test and thorough examination are not available. A notice to prohibit its use shall be prominently displayed in the operator's cabin.
+
+7.	Ensure that the crane operator has :
+(a)	inspected the whole machine including ropes, tyres and tracks, lifting gear, including chains;
+(b)	checked that the automatic safe load indicator and load/radius indicators are working; and
+(c)	put the crane through all its movements to check brake and clutch operation.
+
+8.	Ensure that the loads are only lifted vertically and not pulled, dragged or swung, sideways or in line with the jib of the crane.
+ 
+
+ 
+
+ 
+ 
+9.	Ensure that the weight of any load to be lifted are accurately determined and never guessed.
+
+10.	Ensure that the platform provided in a crane for the use of the operator or for the signaller is:
+(a)	of sufficient area,
+(b)	either plated or closely planked; and
+(c)	provided with a safe means of access.
+
+11.	Provide and affix a guard rail of adequate strength and of a height of not less than 900mm to the platform and any raised standing place of a crane.
+
+12.	Provide and place toe boards of not less than 200mm in height above the level of the platform of a crane and  any  raised  standing place and in a position that will prevent the fall of persons, materials, and tools, from the platform.
+
+13.	Do not use the rails on which cranes are mounted or the sleepers supporting the rails as anchorage for them.
+
+14		Affix a suitable diagram or notice to cranes indicating the  position and amount of weights to be used to secure their  stability.
+
+15.	Do not use cranes under adverse weather conditions likely to endanger their stability.
+
+16.	Clearly and legibly mark on cranes:
+(a)	the safe working load at various radii of jibs, trolleys or crabs, and
+(b)	the maximum radius at which the derrick jib may be operated.
+
+17.	Fit an accurate indicator to a crane, clearly visible to the operator, which shows the radius of jibs, trolleys or crabs and the safe working load applicable to that radius.
+
+18.	Ensure that the crane is equipped with an automatic safe load indicator and that the outriggers for supporting the crane are
+ 
+ 
+fully extended and secure on sleepers resting on firm ground before any lifting work. Outriggers shall not sit directly on  asphalt pavement or concrete footpath.
+
+19.	Provide banksman if the view of the crane operator is restricted.
+
+20.	Establish a safe system of work in case the operating spaces of two cranes overlap with each other. Some check points are:
+
+	Warning system in form of light or sound is  considered as a minimum to signify the operator the approach of overlapping area.
+
+	Appointment of Over-lapping Area Lifting Supervisor (OALS) is require to ensure the co-ordination & control of the lifting operation in overlapping area.
+
+	OALS is considered to be optional when an automatic control device will be activated to prevent the overlapping situation occur.
+
+	Adequate buffer zone on both sides should be allowed to slow down the slowing of the crane  so as to prevent a sudden stop which might induce an inertia to the moving load.
+
+	All detection / warning / control device should be checked to ensure its functional before any work commence.
+ 
+ 
+
+3.2	Excavators
+
+1.	Ensure that excavators are operated by authorised persons who have been adequately trained. Training should also include emergency and rescue procedures.
+
+2.	Unauthorised movement or use of the excavators shall be prevented at all times.
+
+3.	Regularly check and thoroughly maintain the machine. These should be carried out by a competent mechanic.
+
+4.	Ensure that all relevant information, including those related to instruction, training, supervision and safe system of work are provided to the operators.
+
+5.	Ensure that operation and maintenance manuals, manufacturer’ s specifications, inspection and maintenance log books are provided for the use of the mechanics, service engineers or other safety personnel during the periodic maintenance, inspection and examination.
+
+6.	During tipping or running alongside the trenches, excavators  must be provided with stop blocks and scotches.
+
+7.	Excavators must be rested on firm ground during operation.
+
+8.	Avoid operating the machine too close to an overhang, deep ditch or hole and be alert to potential carving edges, falling rocks and slides, rough terrain and obstacles.
+
+9.	Proper safety procedures and method statements shall be provided and followed during excavations.
+
+10.	Locate and identify underground services by checking with all utilities companies before excavations. Stop and inspect work when services are exposed.
+
+11.	Ensure that all excavations are supervised by an experienced and competent person.
+ 
+ 
+12.	When reversing or in case the operator's view is restricted, adequate supervision and signalling by banksman shall be provided.
+
+13.	Ensure that the type and capacity of the excavator to be used are properly chosen for the intended purposes and site conditions. Never use a machine for any purposes other than it is designed for (e.g. do not use it to carry passengers or used as a crane).
+
+14.	Ensure that rollover protection structure and seat belts are provided and used when working on slope or travelling on inclined roads.
+
+15.	Check and report for excessive wear and any breakage of the bucket, blade, edge, tooth and other working tools of the excavator.
+
+16.	Check that all linkages/hinges are properly lubricated and ensure that the linkage pins are secured. Never use  improper  linkage pins such as those improvised from bent steel  reinforcement bars.
+
+17.	Never mount or dismount a machine that is moving. When operating a machine, always stay in the operator’ s station and ensure that the cabin door is securely closed.
+
+18.	Always work in an environment with adequate ventilation and lighting.
+
+19.	Park the excavator on level and firm ground, with parking brake firmly applied and blocking wedges used where appropriate. The bucket or other type of working tools shall be lowered to ground surface when not in use.
+
+20.	No passengers should be carried on the excavator except the operator.
+
+21.	Erect height gauges of the goalpost type, the crossbar of which must be of rigid material such as stout timber painted red and white to avoid striking against structures or overhead power  lines.
+ 
+ 
+22.	Ensure that the protective front screen of the driving cabin  is fixed in position during excavations to avoid eye injury to the operator.
+
+23.	Switch off the engine of an unattended vehicle.
+ 
+ 
+
+3.3	Trucks and Dumpers
+
+1.	Ensure that only trained, authorised and licensed drivers operate the vehicles.
+
+2.	Enlist the help of another worker/banksman before reversing the vehicle. If no one is available, walk around to the rear of the vehicle to see that all is clear and give a sound signal before starting to reverse.
+
+3.	Switch off the engine of an unattended vehicle.
+
+4.	Lower the tipping bodies when the machine is unattended, but if  it is necessary to leave them in the raised position they should be blocked to prevent their fall.
+
+5.	Wear safety boots or shoes to avoid injuries during loading and unloading.
+
+6.	Carry out periodic servicing to the manufacturers’ requirements. All records of maintenance and repairs should be in writing and kept on site.
+
+7.	Keep the vehicle tidy and the cabin free from tools and material which might obstruct the controls.
+
+8.	Keep to speed limits.
+
+9.	No passenger should be carried on a dumper except the driver.
+
+10.	Never drive the vehicle across a slope.
+
+11.	Provide stop blocks when the vehicle is tipping into or running alongside excavations.
+
+12.	Do not overload the vehicle.
+
+13.	Carry only well secured loads.
+
+14.	Park only on level ground, in neutral with the parking brake applied.
+ 
+ 
+15.	Ensure that the wheels and tyres are free from mud when  vehicles have to cross public roads.
+
+16.	Erect height gauges of the goalpost type, the crossbar of which must be of rigid material such as stout timber painted red and white to avoid striking against structures or overhead power  lines.
+
+17.	Never mount or dismount from a moving vehicle.
+ 
+ 
+
+3.4	Forklift Trucks
+
+1.	Only trained and competent authorised operators shall  operate the trucks.
+
+2.	Ensure that the pallet construction is suitable for  the  intended use. Inspect the pallets on each occasion before use.
+
+3.	Do not use or modify a forklift truck for other purposes, such as a crane, i.e. fitted with a boom, hook, etc.
+
+4.	Do not permit the use of a forklift truck as a working platform.
+
+5.	Do not carry passengers.
+
+6.	Lift with mast vertical or slightly tilted back.
+
+7.	Ensure that no attendant labourer stand under an elevated load.
+
+8.	Ensure that forks are correctly spaced to afford maximum support.
+
+9.	Always check that weight to be lifted is within the safe capacity of the machine.
+
+10.	Ensure that the load travels at the lowest possible level with the mast raked back.
+
+11.	Travel in reverse if the load obscures forward vision. Use an attendant if necessary.
+
+12.	Check that tyres are at correct pressure.
+
+13.	Avoid sudden stops by careful driving.
+ 
+ 
+
+3.5	Compacting Machines and Rollers
+
+1.	Ensure that only trained, authorised and licensed drivers operate the vehicles.
+
+2.	The movement of the vehicle shall be supervised by a competent person who shall ensure that no one is getting close to the  vehicle when it is moving or reversing.
+
+3.	Switch off the engine of an unattended vehicle.
+
+4.	Protect the drivers against falling objects.
+
+5.	Carry out periodic servicing to the manufacturers’ requirements. All records of maintenance and repairs should be in writing and kept on site.
+
+6.	Keep to speed limits.
+
+7.	Do not carry any passengers.
+
+8.	Provide stop blocks when the vehicle is running alongside excavations.
+
+9.	Park only on level ground, in neutral with the parking brake applied.
+
+10.	Never mount or dismount from a moving vehicle.
+ 
+ 
+
+3.6	Piling Machine
+
+1.	Regularly check and maintain the machine. These should be carried out by competent persons. All records of maintenance and repairs should be kept on site.
+
+2.	Visual check before commencing piling work the conditions of the machine, including pipes, hoses, fittings, guards, pulleys, drums, wire ropes, winches, brake systems etc. Do not start work if abnormal conditions are found.
+
+3.	Check visibility of surroundings from driver/operator position to ensure no danger will be caused to him or others during piling work.
+
+4.	If necessary fence off the danger zone and provide warning notices/signs to prevent people from entering during piling operation.
+
+5.	Do not check, maintain or service the piling equipment alone unless it is completely shut down and the means of starting are isolated.
+
+6.	Ensure that moving parts that transmit power are provided with guards of robust construction to prevent risk of contacts. Ensure that they are secured.
+
+7.	Note the location of the emergency stops/ safety stops of the machine and ensure it is functioning before commencing work.
+
+8.	Ensure that the piling equipment operator is well trained, competent and conversant with its operation. Training shall include emergency and rescue procedures.
+
+9.	Ensure that the operator’ s manual in appropriate language is available on the machine in a place specially intended for.
+
+10.	Ensure that the procedures for all conditions of use, e.g. transportation, rigging, starting, working, finishing operations, dismantling and storage are followed. Ensure that there are  at least two people present taking care the safety of each other during work.
+ 
+ 
+11.	Work only during approved/prescribed time period.
+
+12.	Position machine on levelled foundation /ground and/or stable position.
+
+13.	Piling equipment shall be fitted with means to avoid tipping over of the pile.
+
+14.	Do not go into an unsafe position to lock, open or release piling connections when piles and other loads are being lifted.
+
+15.	Check that the connecting piles are strongly and properly welded to prevent snapping and collapse of piles during piling action.
+
+16.	Provide suitable noise abatement enclosures at proper locations to reduce noise.
+
+17.	Provide proper personal protective equipment, including approved ear muffs, to machine operators and workers, and ensuring their use.
+
+18.	Prepare Noise Assessment Report and post warning notices in the areas affected.
+
+19.	Ensure fire extinguishers of appropriate number and types are provided and installed in the immediate vicinity of the operators.
+
+20.	Cover/fill up pile holes for work that were completed or temporarily suspended.
+
+21.	For safe removal, unloading and transportation, ensure that the piling equipment are provided with slinging points, lugs, rings, eyebolts or other devices.
+ 
+ 
+
+3.7	Air Compressors and Air Receivers
+
+1.	Ensure that air compressors and air receivers are operated by authorised persons who should be adequately trained, and be conversant with the control, start up and shutdown procedures including emergency operation and shutdown procedures.
+
+2.	Check that the air receiver, pressure vessel or boiler has been registered with a valid Form 2 Certificate of  Fitness  for  a Pressure Vessel as stipulated in the Boilers and Pressure Vessels Ordinance Chapter 56. No air receiver may be operated without a valid certificate, unless exemption has been obtained from the Labour Department.
+
+3.	Ensure that the pressure relief and/or safety valves are periodically checked by a competent person to prevent operating above maximum permissible pressure and that they are sealed against unauthorised pressure re-setting.
+
+4.	If the seal is broken, do not operate the compressor or the air receiver. Report it to the plant manager or the responsible party.
+
+5.	Ensure that all moving parts are guarded and covered by protective enclosures and ensure that the latter are not removed during operation.
+
+6.	When using air compressor in-door, ensure that good ventilation  is provided.
+
+7.	Do not carry out inspection or repair when the air compressor or the air receiver is in operation.
+
+8.	Ensure that adequate warning notices/signs are provided and  used.
+
+9.	Ensure that the procedures for safe operation  and maintenance are followed and that the instruction and service manuals are  readily available.
+
+10.	Wear protective ear muffs if required during the operation of a compressor to guard against excessive noise exposure.
+ 
+ 
+11.	Set the air compressor on level ground with its wheels firmly locked and chocked.
+
+12.	Do not use compressed air for any other purposes than that for which it is intended.!Never  direct compressed air at people or  use to blow dust off clothes or hair. Never use compressed air to clean down machines, workpieces or working benches.
+
+13.	Make sure that the compressed air tools, hoses and fittings are in proper working conditions. Report any damage or failure to supervisor.
+
+14.	When connecting a tool to the air line, keep a firm hold  on  the tool in case it whips.
+
+15.	Before changing tools, make sure that the supply air line is closed or that the compressor has an automatic shut-off valve.
+
+16.	Always ensure that connectors are fully “home” and safely hatched.
+
+17.	Always close the hose by the valve. Never kink the hose.
+
+18.	Horseplaying with compressed air is dangerous and should be forbidden.
+
+19.	Do not leave hoselines lying around to avoid tripping over.
+
+20.	Keep hoses clear of traffic to avoid damage.
+ 
+ 
+
+3.8	Hand-held Pneumatic Breaker
+
+1.	Check the conditions of the compressor, the connecting pipes, hoses, electric cables, breaking blade and fittings before use. Report to supervisor immediately in case of damages and defects.
+
+2.	Regularly check and maintain the equipment. These should be carried out by competent persons. All records should be kept in writing.
+
+3.	Ensure that operators are trained and conversant with the equipment.
+
+4.	Ensure that the operator is physically fit to operate  the equipment.
+
+5.	Ensure that suitable personal protective equipment including eye goggles, ear mufflers, respirator, gloves and safety footwear etc. are used during work.
+
+6.	Ensure that the area to be broken is clearly marked.
+
+7.	Do not operate the equipment for any other purposes than that for which it is intended.
+
+8.	Keep the cables, hoses connecting the equipment clear of people and other traffic to avoid tripping and/or damages.
+
+9.	Do not use the breaker for prolonged periods as the vibration and noise generated would cause discomfort and fatigue to the operators.
+
+10.	Ensure that Noise Assessment Report, if appropriate, is prepared and post warning notices in the areas affected.
+
+11.	Fence the area off if appropriate to avoid trespassers and to protect workers from vehicular traffic.
+
+12.	Ensure that the breaker blades are secured properly before starting operation and every time they are replaced.
+
+13.	Work only during approved/prescribed time period.
+ 
+ 
+
+14.	Proper operating procedures shall be available and followed during operation.
+
+15.	Watch out for underground utilities during breaking.
+
+16.	Wear a safety harness with an independent life line fixed to an anchorage point when breaking up large outcrop or boulders on  a slope. Fall arresting device should also be provided for the equipment.
+ 
+ 
+
+3.9	Electric Arc Welding	(Figure 3.9 - 1 refers)
+
+1.	Use the following personal protection when welding:
+(a)	face or handheld shields shall be fitted with filters, to BS679 or equivalent, for the operators;
+(b)	goggles to BS2092 or equivalent for use when  chipping slag;
+(c)	gloves long enough to protect wrists and forearms against heat, sparks, molten metal and radiation;
+(d)	high-top boots to prevent sparks from entering footwear.
+
+2.	Ensure that welding machines having a maximum current output exceeding 30A single phase or half the maximum demand of an installation in any one phase is directly connected to  the  mains on a 3-phase supply.
+
+3.	Screen off the work area with sturdy opaque or translucent materials because glare can cause eye injury up to 60 metres  away and severe pain for 24 to 48 hours.
+
+4.	Keep the workplace dry, secure, free from combustible materials and obstruction.
+
+5.	Ventilate the workplace using air blowers and exhaust fans to remove poisonous fumes and gases that are given off during welding.
+
+6.	Make sure that a closed vessel, tank or cylinder, which may have contained petrol oils, spirits, paint, or any inflammable or explosive material, contains no trace of the substance or explosive vapour, or flammable vapour, and has been purged to make it safe when welding it.
+
+7.	Take precautions against flying sparks and hot slag where  welding is being done near flammable materials and check  the area before leaving. Make available fire extinguishers near the welding area.
+
+8.	Do not weld material degreased with solvents until completely  dry.
+ 
+ 
+9.	The workpiece should be effectively earthed and all equipment should be earthed and insulated.
+
+10.	Always switch off the current to the electrode holder when you put it down or change electrodes.
+
+11.	Never change electrodes with bare hands or wet gloves, or when standing on wet floors or grounded surfaces.
+
+12.	Keep trailing welding cables clear of ground, if possible.
+
+13.	Check the integrity of the cable used in electric arc welding.
+
+14.	Turn off the welding machine when left unattended.
+
+15.	Learn the drill of artificial respiration so that you can  treat  anyone who has suffered from electric shock.
+
+16.	Use welding machine of enclosed type, and ensure that terminals of the welding machine are properly protected to avoid  accidental contact.
+
+17.	Insulate the exposed terminals connecting the electrode and  return cable holders.
+
+18.	Do not carry out welding outdoor during rainy days.
+
+20.	The welding machine shall be equipped with a voltage reducing device to automatically reduce the output voltage at no-load condition.
+ 
+
+ 
+ 
+
+3.10	Gas Welding, Gas Cylinders	(Figure 3.10 - 1 refers)
+
+1.	Use the following personal protection when welding ­
+(a)	face or handheld shields shall be fitted with filters, to BS679 or equivalent, for the operators;
+(b)	goggles to BS2092 or equivalent for use when  chipping slag;
+(c)	gloves long enough to protect wrists and forearms against heat, sparks, molten metal and radiation;
+(d)	high-top boots to prevent sparks from entering footwear.
+
+2.	Screen off the work area with sturdy opaque or translucent materials because glare can cause eye injury.
+
+3.	Key for opening the acetylene cylinder valve must be kept on the valve stem while the cylinder is in use so that the cylinder valve may be immediately shut off in emergency.
+
+4.	Ventilate the workplace using air blowers and exhaust fans to remove poisonous fumes and gases that are given off during welding.
+
+5.	Make sure that a closed vessel, tank or cylinder, which may have contained petrol oils, spirits, paint, or any inflammable or explosive material, contains no trace of the substance or explosive vapour, or flammable vapour, and has been purged to make it safe when welding it.
+
+6.	Take precautions against flying sparks and hot slag  where welding is being done near flammable materials and check  the area before leaving.
+
+7.	Do not weld material degreased with solvents until completely  dry.
+
+8.	Do not use gas cylinders for supporting work or as rollers.
+
+9.	Do not use oil grease on oxygen cylinder fittings.
+
+10.	Do not use cylinders with damaged valves.
+ 
+ 
+11.	Do not use undue force if valves are stuck. Always open  cylinder valves slowly.
+
+12.	Ensure that appropriate type of regulators and flash  back arresters are installed and maintained in sound condition.
+
+13.	Open the regulator screw on a welding torch before opening the cylinder valve. Open cylinder valves slowly and shut all valves when the equipment is not in use.
+
+14.	Replace valve caps after use.
+
+15.	Ensure that hose lines are in sound condition and  secure  to avoid damage.
+
+16.	Search for leaks in equipment by using a solution of  soapy water.
+
+17.	Shut the cylinder valve if acetylene from a cylinder catches fire at the valve or regulator due to leakage at a connection.
+
+18.	Treat all gas cylinders as “full” unless you are sure otherwise.
+
+19.	Never attempt to transfer acetylene from one cylinder to another or attempt to refill an acetylene cylinder.
+
+20.	Place portable fire extinguishers near the welding area.
+
+21.	Secure all cylinders against accidental displacement.
+
+22.	Always lift gas cylinders. Do not slide them along the ground or drop them from trucks.
+
+23.	Keep gas cylinders in a vertical position both in storage  and when in use.
+
+24.	Keep the workplace dry, secure, free from combustible materials and obstruction.
+
+25.	Store the acetylene and oxygen cylinders separately.
+ 
+
+ 
+ 
+26.	Store gas cylinders in a properly constructed store.
+
+27.	Keep the gas cylinders from source of heat, flammable materials, corrosive chemicals and fumes.
+
+28.	Do not store gas cylinders in excess of the  "exempted quantities" as stipulated in the Dangerous Goods Ordinance, except in a licensed DG store. (For details, refer to Fire Protection Notice No. 4 on Dangerous Goods - General.)
+ 
+ 
+
+3.11	Woodworking Machine	(Figure 3.11 - 1 refers)
+
+1.	Keep the circular saw blades sharp at all times, and properly adjust the riving knife and top guard. Use saw blade of suitable diameter and adjust it properly so that the saw teeth cut vertically downward.
+
+2.	Use a push stick to prevent the hand from coming into contact with the blade of a circular saw, planing machine or vertical spindle moulder.
+
+3.	Provide fire extinguishers adjacent to the work location. Remove sawdust regularly to minimise fire hazard.
+
+4.	Never remove the sawdust from under a saw bench until the machine has come to a standstill and the power supply has been switched off.
+
+5.	Tighten all nuts and set screws on saws and cutters and ensure all cutting tools are sharp.
+
+6.	Ensure that every woodworking machine is adequately guarded and is provided with a readily accessible emergency stop button. Weatherproof on/off switch shall be used if the machine is located outdoor.
+
+7.	Never use a woodworking machine until you have been properly trained in its use.
+
+8.	Ensure that the working space around a machine is unobstructed and the floor is clean and not slippery.
+
+9.	Wear a face mask and ear muff when operating woodworking machinery.
+ 
+
+ 
+ 
+
+3.12	Material Hoists	(Figure 3.12 - 1 refers)
+
+1.	Select a hoist which is suitable for the site and capable of lifting the loads required.
+
+2.	Ensure that the hoist can be operated from one position only.
+
+3.	Protect the hoistway with a substantial enclosure to contain any falling objects.
+
+4.	Provide secure gates at all landings and at ground level and  ensure that fail-safe interlocking hoistway gates are installed.
+
+5.	The enclosures and gates of a hoistway shall be at least 2 metres high.
+
+6.	Keep the hoist gates closed when loading or unloading is not in progress.
+
+7.	Provide an efficient automatic device to prevent the platform or cage of a hoist from over-running the highest point of travel.
+
+8.	Make effective signalling arrangements for a hoist operator if he has no "clear and unrestricted" view of the platform or cage of the hoist throughout its travel.
+
+9.	Construct the winch of a hoist such that the brake is applied when the control lever, handle or switch is not held in the operating position.
+
+10.	Take effective precautions to prevent goods or loose materials from falling from the platform of a hoist.
+
+11.	Enclose the platform of a hoist used to carry goods or loose materials.
+
+12.	Do not use the hoist for transportation of persons.
+
+13.	Mark, or affix to the platform or cage of the hoist a clear and legible notice stating the prohibition of the carriage  of persons and the safe working load.
+ 
+ 
+14.	Ensure that the hoist is erected by trained and experienced  people following the manufacturer’ s instructions and properly secured to the supporting structures.
+
+13.	Ensure that the hoist operator has been trained and is competent.
+
+14.	Distribute loads evenly on the hoist platform and ensure that the hoist is not over-loaded.
+
+15.	Ensure that the loading/unloading platform leading to the hoist platform is not over-loaded.
+ 
+
+ 
+ 
+
+3.13	Cartridge Operated Tools	(Figure 3.13 - 1 refers)
+
+1.	Use only tools approved by the Labour Department under Factories & Industrial Undertakings (Cartridge Operated Tools) Regulations. Every cartridge operated tool shall be clearly and permanently marked, in English or Chinese, the manufacturer's name, type or model of the tool and its serial number.
+
+2.	Ensure that users of cartridge operated fixing tools are:
+(a)	at least 18 years of age; and
+(b)	holding a certificate of competence on the particular tool to be used.
+
+3.	Never attempt to do more than what is detailed in the manufacturer’ s instructions because the  built-in  safety  devices of some tools are complex and it requires special tools and technical knowledge to do the job properly.
+
+4.	Operators and others directly engaged in firing activities must wear suitable high impact resistant goggles, safety helmets  and ear protectors.
+
+5.	Do not use cartridge operated tools in an atmosphere containing flammable vapours, flammable gases, or explosive dusts.
+
+6.	Never point tools, whether loaded or otherwise, towards any person. Always point them downwards (except when firing) and, as far as possible, away from your body. This applies particularly when removing misfired cartridges.
+
+7.	Never walk around with loaded tools.
+
+8.	Never put your hand over the end of the barrel of the tool.
+
+9.	Never lay down loaded tools.
+
+10.	Do not load any tool until immediately before it is required. If a tool is loaded in error, unload it immediately.
+ 
+ 
+11.	Do not use force when loading a cartridge in the breech. Report any difficulty to your immediate supervisors.
+
+12.	Keep clear of the immediate vicinity of the firing  place unless  you are the operator or his assistant. Watch out when firing against soft or thin material because the fixings may penetrate it and injure someone on the other side.
+
+13.	Do not use a tool without a protective shield or splinter guard. Use cut-away or adjustable guards only where the structure  being fired into provides a shield from possible flying fixings or splinters at least equivalent to a standard 100 mm diameter guard mounted concentrically to the tool muzzle. Immediately refit the standard guard on completion of special work.
+
+14.	Keep the tool as nearly as possible at right angles to the working surface and the whole of the splinter guard flush with that  surface.
+
+15.	Do not fire fixings into very hard or brittle materials (e.g.  hardened steel, cast iron, marble, glazed tiles, structures and structural materials) where there is risk of the studs or pins passing through, unless precautions are taken.
+
+16.	Do not fire fixings into concrete or masonry at a distance less than 65mm from the edge, unless special precautions are taken. Where present, the distance should be increased by the thickness of a plaster coat.
+
+17.	Do not fire fixings into existing holes, or at a point where another pin or stud has previously been fired in and subsequently broken off or failed to hold, or where the surrounding material has crumbled away. Locate the new fixing at least 50mm from that point.
+
+18.	Reset the firing mechanism without removing the tool from its depressed position in the event of a misfire and fire the tool again. If there is a further misfire, keep the tool firmly in place, in the depressed position, for 15 seconds. Then remove the cartridge according to the manufacturer’ s instructions  taking care to ensure that the cartridge is not accidentally fired. Do not use misfires again but store them in a metal box for eventual
+ 
+ 
+return to the manufacturers for destruction with written warning on the box.
+
+19.	Keep cartridges for immediate use in a suitable damp proof box that contains no other objects.
+
+19.	Keep tools unloaded in an approved lockable tool-box  and  stored in a safe place to which only authorised persons have access when not in use. Every tool-box shall contain a copy of the manufacturer's instruction manual.
+
+20.	Do not operate on a ladder because the recoil form firing can throw the operator off the ladder.
+ 
+
+ 
+ 
+
+3.14	Abrasive Wheels	(Figure 7.2-1 refers)
+
+1.	All abrasive wheels shall be mounted by competent persons who have been appointed in writing by the employer. They should be well trained and have the practical experience for the mounting job.
+
+2.	Only trained persons shall be allowed to use abrasive wheels and cutting discs.
+
+3.	Run a new or replacement abrasive wheel of at least 1 minute before use.
+
+4.	Abrasive wheels shall be clearly marked in Chinese and English  the maximum permissible speed in rounds per minutes (rpm) by the manufacturer. A notice, in English and Chinese, stating the specified maximum permissible speed of the abrasive wheel shall be permanently fixed in the room or area where the  abrasive wheel is used. For every power driven machine, the spindle on which an abrasive wheel is mounted shall be marked with its maximum working speed of the spindle. Where  there  are provided arrangements for operating the spindle at an infinite number of working speeds within a specified range,  the  maximum and minimum working speeds of the spindle shall be specified. Check that the operating speed of the spindle of a machine does not exceed the maximum permissible speed of the wheel as specified by the manufacturer.
+
+5.	Ensure that the guard is in position and properly adjusted.
+
+6.	Adjust the work rest as close to the face of the wheel as  possible, in any case not exceeding 3.2 mm to the wheel.
+
+7.	Never use the side of an abrasive wheel for grinding.
+
+8.	Check that the spindle does not become overheated through lack of lubrication.
+
+9.	Do not stop a wheel by the application of pressure to the wheel.
+ 
+ 
+10.	Never use undue pressure on the wheel when grinding.
+
+11.	Wear high impact resistant goggles even when a  protective screen is fitted to the machine.
+
+12.	Ensure that the correct grade of wheel for the work is in hand.
+
+
+13.	Ensure that the floor in the vicinity of a grinding machine is in a good condition, free from obstruction and not slippery.
+
+14.	Examine a dropped abrasive wheel very carefully before using it. If you are doubtful of its condition, destroy it and obtain a new wheel.
+
+15.	Report any fault or unusual signs of the machine to the officer­ in-charge immediately.
+ 
+ 
+
+3.15	Steel Bending Machine
+
+1	Operator of the bending machine should be properly trained.
+
+2		The machine should be properly maintained by competent persons according to the recommendations of  the manufacturers.
+
+3		Check that all the protective devices of the machine are in good working conditions prior to use.
+
+4		Locate steel bending machine on firm and level ground which is capable of supporting the static load of the machine, the steel  bars and the dynamic load generated by the steel bending process.
+
+5		Provide appropriate machine guarding to protect personnel against direct contact  with  the shears.  The shears  should  only be exposed when the shears  are in use and the guarding  should  be reinstated afterwards.
+
+6		Only carry out steel bending process in the steel bending yard of the construction site.
+
+7		Adequate clearances, not less than 2 m measured  from  both ends of steel bars, should be allowed for the movement of the steel bar when work is in progress.
+
+8		Do not stand or work on the inner side of steel bar being bent to prevent from being whipped by its moving tail.
+
+9	Avoid bending excessive number of steel bars at one time in  order to prevent the top bars from springing out of the rollers.
+
+10		The diameters of the steel bars should not be larger than the limit as recommended by the machine manufacturer.
+
+11		The bending machine shall be equipped with an emergency stop push button/push bar at prominent position which is easily accessible  by  the  operator.	Whenever the emergency push­
+ 
+Chapter 3	Safe Use of Plant							3 - 31
+button/push bar is pressed, the complete set of machine shall
+stop without any further motion.
+12	All metal parts of the equipotential bonding.	machine	should	be	provided	with
+13	Protect the electric cable against mechanical damages. use steel bender during wet condition.	Do not
+14	Protect the machine.	motor	and	control	accessories	of	the	bending
+15	Provide proper storage of steel reinforcement and keep clear of ground surface by suitable timber battens.
+16	Proper PPE, gloves and safety footwear should be used by the operators and workers.
+17	Receptacles with full containment on four sides to prevent the falling out of materials should be used for lifting and  transportation of short pieces of reinforcement such as links and splices. Do not exceed the safe working load marked on the receptacle.
+ 
+ 
+
+3.16	Electric Tools	(Figures 3.16 - 1&2 refer)
+
+1.	Do not attempt electrical repairs unless you are a qualified electrician.
+
+2.	Portable and hand-held tools and temporary site lighting shall be from a 110V or less supply from isolation transformers with output windings centre-tapped to earth. Hand-held lamps less than 110V is preferable. In confined and damp situations, e.g. inside metal vessels, sump pits and tunnels, the voltage of hand- held tools and temporary lightings should not exceed 25V.
+
+3.	Use approved type weatherproof socket/adapter for extension of power cable.
+
+4.	Use armoured cable for fixed plant and flexible cables with protective braid and abrasion resistant sheaths for mobile plant.
+
+5.	Check for defective or damaged cables, plugs, sockets and damaged or worn tools.
+
+6.	Report any defects at once and do not allow the tools to be  used by affixing warning labels and setting the tools aside until the repair has been made.
+
+7.	Keep loose cables off the floor and out of the way of other people as much as possible.
+
+8.	Check that the correct equipment is being used for the job.
+
+9.	Never permit equipment or circuit to become overloaded. Use the correct fuse rating and cable size at all times.
+
+10.	Switch off the electrical supply and, where possible, remove the fuses before making repairs and adjustments. For works on low voltage installation where supply is not switched off, reference should be made to the procedure in 4G(1)(b) of the Code of Practice for the Electricity (Wiring) Regulations.
+ 
+ 
+11.	Ensure that electrical equipment is effectively earthed in accordance with Code of Practice for the Electricity (Wiring) Regulations.
+
+12.	Do not withdraw a plug from a socket by pulling the cable.
+
+13.	Ensure that all electrical equipment is dry and clean unless it is of special construction and installed and protected to prevent electrical hazards for working under the specified adverse environmental condition.
+
+14.	Avoid standing on wet or damp ground when making adjustments.
+
+15.	Install flame-proof or intrinsically safe electrical equipment in place where flammable vapour may be present.
+
+16.	Follow the procedures below when removing a person from a live wire without yourself being electrocuted:
+(a)	switch off the electricity supply if the switch is near  to  hand;
+(b)	if the electricity supply cannot be switched off, DO NOT attempt to move the victim with your bare hands;
+(c)	if he is wearing a coat, pull him clear by grasping his coat tail, provided that the cloth is dry;
+(d)	alternatively you can use your own coat to grasp his body, or you can slip your belt around his leg or arm and pull him clear;
+(e)	use a dry piece of wood to knock or push aside the live conductor; and
+(f)	you can protect yourself further by standing on a piece of insulating material such as dry wood, dry folded paper, a dry coat, or rubber matting.
+
+17.	Learn the drill of artificial respiration so that you can  treat  anyone who has suffered from an electric shock.
+
+18.	Commence artificial respiration immediately if a person has become unconscious following an electric shock. Send for a doctor or an ambulance but continue the artificial  respiration until their arrival.
+ 
+
+ 
+
+ 
+ 
+
+
+3.17	Hand-held Tools
+
+1.	Select the correct weight, size and tool for the job.
+
+2.	Keep hand tools clean, in good condition and store in a safe  place when not in use.
+
+3.	Ensure that handles have a smooth finish, should be easy  to grasp and should have no sharp edges or corners.
+
+4.	Handle all sharp hand tools with care. Protect all sharp edges properly if not in use.
+
+5.	Keep tools off ladders or overhead locations.
+
+6.	Use spark resistant tools where highly flammable vapours  may  be present.
+
+7.	Use only properly insulated tools for work on or near electrical apparatus.
+
+8.	Keep cutting edges sharp for accurate working and to avoid the need for unnecessary pressure.
+
+9.	Never use chisels, punches or riveting dollies with mushroomed heads.
+
+10.	Never use files without a handle.
+
+11.	Never use a chopper as a hammer.
+
+12.	Never use a screwdriver that has a dull blade, bent shank,  or  split handle.
+
+13.	Always use the correct size spanner. Never use packing pieces.
+
+14.	Never use a hammer or extension handles on a spanner for tightening up nuts. Where a jammed nut must be loosened, a striking face spanner should be used after applying penetrating   oil to the end of the thread.
+ 
+ 
+15.	Hold securely the work in a vice and use a proper tap wrench (never an adjustable spanner) when taps and dies are used. Freshly cut threads can be sharp and may cut hands and arms.
+
+16.	Ensure that there is nobody around when swinging a  hammer.
+
+17.	Avoid static load at the shoulder or arm due to continuous holding of a tool at a raised position or the gripping of a heavy tool.
+
+18.	Avoid awkward wrist angles while using tools such as snips and pliers.
+ 
+ 
+4.1	Manual Handling and Lifting	(Figures 4.1 - 1&2 refer)
+
+1.	Always use mechanical equipment in place of manual handling as far as possible.
+
+2.	Carry out a risk assessment on the potential hazards that would be associated with the operations, including health hazards.
+
+3.	Assess the manpower required to handle or lift the load safely, and arrange the manpower accordingly.
+
+4.	In handling hazardous materials, the workers  shall be informed of the hazards and the safety precautions.
+
+5.	All relevant persons shall be trained in the proper methods of lifting and carrying.
+
+6.	Where team work is required, select the persons whose ages and physical builds are compatible for teaming up. Co-ordinate the actions of the team members by giving necessary instruction/signal.	(Figure 4.1 - 2 refers)
+
+7.	Always lighten or suitably shape the load for manual handling as far as possible. Keep a lookout for splinters, sharp edges, loose banding, and nails.
+
+8.	Clear path of obstruction and tripping hazards.
+
+9.	Stack and secure goods safely on trucks, otherwise they fall off and injure passers-by.
+
+10.	Always use proper protective equipment such as gloves, safety shoes, etc.
+
+11.	Follow the following procedures whenever you lift a load:
+(a)	Stand close to the object. Have a firm footing with feet spread on either side of the load;
+(b)	Bend the knees and keep your back as straight as you can;
+(c)	Grasp object firmly. Be sure grip will not slip;
+(d)	Breath-in and throw the shoulders backwards;
+ 
+Chapter 4	Safe Use, Handling, Storage and	4 - 2
+	Transport of Materials	
+
+(e)	Straighten the legs, continuing to keep the back as straight  as you can;
+(f)	Hold object firmly close to the body;
+(g)	Always lift smoothly. Avoid jerky motions. Turn with feet instead of twisting back.
+
+
+12.	The following table lists a rough guideline on the loads for different sexes and ages that can be taken as safe if they are handled properly. However, when the handling is regular and frequent the loads should be reduced by at least 25%.
+
+
+Sex and Age	Weight of Load
+Men
+16 - 18 years of age
+20 - 35 years of age over 50 years of age
+
+Women
+16 - 18 years of age
+20 - 35 years of age over 50 years of age	
+20 kg
+25 kg
+16 kg
+
+
+11 kg
+15 kg
+10 kg
+
+(Source: The Trade Union Congress of United Kingdom.)
+
+ 
+
+ 
+
+ 
+Chapter 4	Safe Use, Handling, Storage and	4 - 3
+	Transport of Materials	
+
+4.2	Slings and Slinging	(Figures 4.2 - 1&2 refer)
+
+1.	Only use slings which had been tested and marked with a safe working load. Inspect the condition of the slings before use. Ensure that the slings be examined every 6 months by a competent examiner.
+
+2.	Never overload a sling. Before lifting, find out the weight of the load and the safe working load of the sling.
+
+3.	Use the correct type and length of sling for the job.
+
+4.	Pad sharp corners of the load to prevent damage to the sling.
+
+5.	Do not use a sling which is damaged or there are broken strands.
+(Figure 4.2-1 refers)
+
+6.	Always use suitable guide ropes to prevent spinning or swinging of the load being lifted.
+
+7.	Place slings so that the tension is equalled throughout the sling immediately on lifting.
+
+8.	Give signals to the crane driver which are definite and clearly understood by all workers engaged in the lifting operation.
+
+9.	Never stand under a suspended load, and warn others to keep away.
+
+10.	Slings should be coiled or hung up after use and stored away from heat and damp.
+
+11.	All scrap slings must be removed from site as soon as possible.
+
+12.	Adopt a Colour Coding System for lifting gear, eg.:
+Blue	for	Jan – Feb – Mar
+Yellow	for	Apr – May – June
+Green	for	Jul – Aug – Sep
+Orange	for	Oct – Nov – Dec
+ 
+Chapter 4	Safe Use, Handling, Storage and	4 - 4
+	Transport of Materials	
+
+Red	 		To be removed from site
+White	 		Equipment	under	quarantine	in	Main
+Contractor’ s central yard.
+
+The Main Contractor’ s safety officer shall be responsible for ensuring that the appropriate colour codes are painted after checking with the updated register.
+
+14. When using bandages as lifting  gears,  ensure  that  the  safe  working load as marked therein are not exceeded. Bandages should be inspected before use on each occasion by a competent person and be examined every 6 months by a competent examiner.
+ 
+
+ 
+
+ 
+Chapter 4	Safe Use, Handling, Storage and	4 - 5
+	Transport of Materials	
+
+4.3	Handling of Chemicals and Hazardous Substances
+
+1.	Always substitute hazardous chemicals with harmless or less hazardous ones.
+
+2.	Enclose the process using chemicals, or provide other engineering controls such as local exhaust ventilation, a fume cupboard or a safety cabinet.
+
+3.	Exercise great care in the storage and use of chemicals at all  times because they may be explosive, poisonous, corrosive or combustible.
+
+4.	Physically separate different chemicals.
+
+5.	Store chemicals classified as dangerous goods in a properly constructed and approved dangerous goods store. Keep proper records of all chemicals and hazardous substances delivered, stored, and used on site.
+
+6.	Unknown substances and liquids should be regarded as dangerous unless known to be otherwise.
+
+7.	All containers should be clearly labelled to indicate contents. Never  use   a   wrongly   labelled   container   for   chemicals. (See Figure 2.1.5 - 3)
+
+8.	Smoking shall be strictly prohibited when handling dangerous chemicals.
+
+9.	Check that you are wearing the correct personal protective equipment (PPE) before you handle chemicals. Refer to the Material Safety Data Sheet for safety precautions to be taken and the use of suitable PPE, such as gloves, rubber boots or respirators. A proper file of Material Safety Data Sheets should be kept on site.
+
+10.	When opening containers, hold a rag over the cap or lid as some volatile liquids tend to spurt up when this is released.
+ 
+ 
+11.	Wash before you eat and do not eat or smoke at your work location.
+
+
+12.	If the skin is splashed with a chemical, rinse it immediately with plenty of clean water. Eye should be flushed out thoroughly with water follow by immediate medical attention.
+
+13.	Eye fountain, emergency shower and breathing apparatus should be available in the vicinity of the workplace.
+
+14.	Safety instruction for handling emergency situations should be displayed prominently in the chemical storage and workplace.
+ 
+Chapter 4	Safe Use, Handling, Storage and	4 - 7
+	Transport of Materials	
+
+4.4	Asbestos
+
+1.	You may find asbestos in the following situations:
+(a)	as asbestos insulation or coating used for:
+i.	thermal insulation of boilers;
+ii.	fire protection of structural steelworks;
+iii.	thermal and acoustic insulation of buildings;
+(b)	as asbestos insulating board used in a wide variety  of  places such as:
+i.	fire protection on doors, protected exits, structural steelworks, etc.;
+ii.	cladding on walls, ceilings, etc.;
+iii.	internal walls and partitions;
+iv.	ceiling tiles in a suspended ceiling;
+(c)	as asbestos cement, which is found as:
+i.	corrugated sheets (roofing and cladding of buildings);
+ii.	flat sheeting for partitioning, cladding and door  facings;
+iii.	gutters and downpipes.
+
+2.	Arrange a Registered Asbestos Consultant to conduct analysis and prepare an asbestos investigation report if you are not sure whether the material and boarding contain asbestos.
+
+3.	As soon as asbestos is identified, the concerned area shall be closed off and any work in this area shall only be carried out by approved specialist contractors under continuous supervision by a Registered Asbestos Supervisor.
+
+4.	Use working methods that keep asbestos dust levels as low as possible (e.g. use hand tools and avoid breaking boards).
+
+5.	Wear suitable protective clothing including respirators when working with asbestos.
+
+6.	Provide washing and changing facilities for workers, and arrange to allow the separation of person from protective clothing. The cleaning of protective clothing shall be carried out in a suitable equipped facility located on the premises where work with asbestos is being done or in a suitable equipped laundry
+ 
+ 
+elsewhere, and if protective clothing is to be removed from the person for cleaning or disposal, it shall be packed in a suitable container and labelled.
+
+7.	Do not eat, drink or smoke in area with suspected presence of asbestos dust.
+8.	Pay attention to the waste collection and disposal to avoid increasing the atmospheric concentration of asbestos fibres. Put the waste in impervious sack and bury it in a controlled tipping site. Asbestos collection and disposal shall only be carried out by approved specialist contractors.
+
+
+ 
+ 
+
+
+5.1	Fire Prevention
+
+1.	Store flammable material in a temporary Dangerous Goods (D.G.) Store. Install fire alarm and provide fire protection measures for the D.G. Store. Post 'Dangerous Goods' and 'No Smoking' warning notices in the vicinity of the D.G. Store to enhance safety awareness.
+
+2.	Display sufficient warning signs and 'No Smoking' signs.
+
+3.	Electrical equipment that cannot be kept out of locations that might have flammable or explosive atmospheres should be explosion-proof or intrinsically safe.
+
+4.	Provide all earthing devices for the particular site and install them to ensure maximum protection. Doors of buildings, magazines,  or rooms in which highly flammable or explosive materials are located, should be provided with earthing push bars or plates. Ensure that shoes and floors are non-conductive types.
+
+5.	Avoid voltage and amperage high enough to cause arcing or sparking, which could cause ignition of a flammable gas or combustible material.
+
+6.	Do not leave any energised parts/equipment, such as motor brushes or open circuit breakers, where arcing or sparking can occur close to any fuel.
+
+7.	Do not leave or accumulate lint, grease, or other flammable material.
+
+8.	Do not use water on electrical equipment fires. When possible de-energise electrical equipment before fire fighting.
+ 
+ 
+
+
+5.2	Fire Escape	(Figure 5.2 - 1 refers)
+
+1.	Make certain you know your escape route and assembly point.
+
+2.	Keep fire doors, shutters and means of escape clear and unobstructed.
+
+3.	Don’ t obstruct access to fire extinguishers or other fire fighting equipment.
+
+
+
+ 
+
+ 
+Chapter 5	Fire and Explosions	5 - 3
+5.3	Fire Fighting and Equipment	(Figures 5.3 – 1&2 refer)
+	Before fire breaks out	
+
+1.	Provide sufficient and appropriate fire extinguishers on site.
+
+2.	Learn the use of fire extinguishers.
+
+3.	Inspect fire extinguishers regularly and replace as necessary.
+
+4.	Fire escape route should be kept clear at all times and clearly indicated.
+
+5.	Know the escape route and assembly point.
+
+6.	Post escape route maps prominently on each floor.
+
+7.	Carry out fire drill regularly. Designate fire officers.
+
+8.	Arrange fire patrol especially during lunch break and after work to ensure that no potential fire hazards are left behind.
+
+9.	Test the fire alarm system regularly.
+
+10.	Provide sufficient exit signs at prominent locations for directing people to the escape staircases and routes.
+When fire breaks out
+1.	Alert all other persons.
+
+2.	Put off the fire with appropriate fire extinguishers only when you are sure that you are safe to do so.
+
+3.	Dial "999" at the same time as necessary (e.g. if you are not sure that the fire can be put off.)
+
+4.	Escape if you are in danger through the fire escape route to assembly point.
+
+5.	Fire officers to carry out head count at the assembly point.
+ 
+
+ 
+
+ 
+ 
+
+
+6.1	Person Trained in First-Aid
+
+1.	At least one person trained in first aid shall be included in the team of responsible persons in charge of first aid boxes.
+
+2.	Contractors shall provide a person trained in first aid to a construction site with 30 to 99 workmen. At least two persons trained in first aid are required for a construction site with 100 or more workmen.
+
+3.	A “Person Trained in First-Aid” means a person who ­
+(a)	holds a current certificate of competency in first aid issued by the St. John Ambulance Association or Red Cross;
+(b)	is a registered nurse within the meaning of the Nurses Registration Ordinance; or
+(c)	has otherwise completed a course of training in first aid approved by the Commissioner for Labour.
+
+4.	In case a person trained in first aid is not available  in  a workroom, the name, work location and telephone  number  of the person trained in first aid whose work location is nearest to that room shall be prominently displayed in that room.
+ 
+ 
+
+6.2	First Aid Facilities
+
+1.	A construction site with five or more workmen shall have a first aid box (preferably a portable one). A separate first  aid  box shall be provided for every 50 workers on site.
+
+2.	Every first aid box shall be marked plainly “FIRST AID” in English and Chinese. If a first aid box is not provided in any workroom, the location of the nearest first aid box and the name of the person in charge of the box shall be displayed in that workroom.
+
+3.	Adequate first aid equipment shall be provided according to the following table. All material for dressings shall be of acceptable grade and quality.
+
+
+Requirement	No. of persons employed
+	<10	10 -49	>49
+A copy of the Hints on First
+Aid issued by the Labour Department	1	1	1
+Small sized sterilised
+unmedicated dressings	6	12	24
+Medium sized sterilised
+unmedicated dressings	3	6	12
+Assorted sized adhesive
+wound dressings	12	24	36
+Triangular bandages 1.3m x
+0.9m x 0.9m	2	4	8
+Adhesive plaster 25mm x
+4.5mm	1	1	2
+Cotton wool, 300gm packet	3	6	12
+Pressure bandage	1	1	1
+Safety pins	Sufficient supply
+Assorted sized waterproof
+adhesive wound dressings	Sufficient supply
+Assorted sized waterproof
+adhesive plaster	Sufficient supply
+Eye bath	Sufficient supply
+ 
+ 
+
+4.	All first aid boxes shall be placed in the charge of a team of responsible persons or first aiders. At least one member of the team shall be readily available during working hours. The names  of the responsible team and the first aiders and how they can be made available shall be posted on every first aid box.
+
+5.	The required content of the first aid box shall be replenished as necessary by the responsible person or first aider.
+
+6.	A readily serviceable stretcher shall be provided  to  a construction site with 50 or more workmen.
+ 
+ 
+
+
+6.3	Artificial Respiration
+
+1.	If you have been taught on how to give artificial respiration, use the method with which you are most familiar.
+
+2.	Do not delay, start  artificial  respiration  immediately  and persevere with it, for many hours if necessary. (Note : The brain begins to suffer irreparable damage if left without oxygen for a few minutes)
+
+3.	Send for, but never wait for a doctor.
+
+4.	If the victim is removed to a hospital, artificial respiration must  be continued during the journey.
+
+5.	Mouth to mouth method ( not to be used for a gaseous  incident) :
+(a)	Loosen victim’ s collar or any tight clothing.
+(b)	Roll the victim onto his back. Clear the mouth and throat and nostrils of obstruction if possible, but do not delay inflation to do this. Lift his neck to push the head back, and at the same time use the other hand to pull the  chin  upwards, so that the windpipe is unobstructed.
+(c)	Take a deep breath and place your open mouth over the victim’ s open lips or nose, making sure that your lips make a tight seal on the victim’ s cheek. If you place your mouth over the victim’ s mouth only, then pinch his nostrils firmly with your fingers. Blow air into the victim until you see his chest rise. Remember to keep the victim’ s chin pulled up and his head back.
+(d)	Remove your mouth. The air which you have blown  into the victim’ s lung will be expanded automatically.
+(e)	Continue the inflation with your own breath 10 to 12 times a minute, i.e. once every 5 to 6 seconds. There is  no advantage to be gained from making inflation more rapidly than this. Use a watch with a second hand to time yourself.
+ 
+ 
+
+(f)	If air is retained in the victim’ s stomach it will be indicated by swelling of the abdomen. It can be expelled by gentle pressure applied by the hand to the abdomen.
+
+6.	Artificial respiration procedure posters should be displayed at prominent locations of the construction site and locations with electrical installation.
+ 
+ 
+
+
+7.1	General
+
+1.	Consider the provision of personal protective equipment only after all measures for removing or controlling safety or health hazards have been proved reasonably impracticable.
+
+2.	Ensure that sufficient personal  protective  equipment  are provided and that they are readily available for every person who may need to use them.
+
+3.	The personal protective equipment shall provide adequate protection and comfort for continuous use and shall conform to the British Standard Specifications or other  appropriate standards or their equivalent.
+
+4.	Consult the Safety Advisory Unit of your department if there is any doubt about the requirements and selection of any personal protective equipment.
+
+5.	The management shall ensure that all persons make full and proper use of the personal protective equipment provided.
+
+6.	Provide instruction and training in the proper use and care of any specific protective equipment where necessary.
+
+7.	The management shall provide proper storage for all personal protective equipment issued to ensure their conditions are properly maintained and are hygienic.
+
+8.	Where personal protective equipment is provided, do not wilfully and without reasonable cause  remove  personal  protective equipment to endanger yourself or others.
+
+9.	Do not wilfully misuse, interfere with or ill-treat any protective clothing and equipment provided.
+
+10.	All persons who have been issued personal protective equipment shall ensure their good condition and report immediately any damage to the management for replacement.
+ 
+Chapter 7	Personal Protective Equipment		7 - 2
+11.	Always keep the personal protective equipment	as	clean	as
+	possible since dirty ones can lead to dermatitis or fire.		
+ 
+ 
+
+
+7.2	Eye Protection	(Figure 7.2 - 1 refers)
+
+1.	The smallest particle in the eye can lead to disaster. Do not remove eye protection while in a dangerous area.
+
+2.	Get a trained person, not your colleague, to remove any foreign body from your eye.
+
+3.	Issue eye protection equipment to all where there is foreseeable risk of eye injury.
+
+4.	Ensure an adequate supply of goggles/shields is available.
+
+5.	Keep the goggles clean and make sure they are good  fit.
+
+6.	All safety spectacles, goggles and face shields shall conform to
+B.S. 2092 or its equivalent.
+
+7.	Welding shield and goggles shall conform to B.S. 679  (for  filters) and B.S. 1542-2 (for filter housings), or their equivalent.
+
+8.	Take care in selecting suitable eye protection. The following  table shows what the markings on the lenses represent.
+
+Marking	Suitable for protection against
+B.S. 2092	light impact
+B.S. 2092-2	moderate impact
+B.S. 2092-1	heavy impact
+C	chemicals
+D	dust
+G	gas and fumes
+M	molten metal
+
+9.	Wear suitable eye or face protection when engaged in:
+(a)	grinding and cutting with an abrasive wheel, which is driven by mechanical power,
+(b)	dressing abrasive wheels,
+(c)	internal and external turning, other than precision turning, of non-ferrous metal and cast iron,
+(d)	welding and cutting,
+ 
+ 
+
+(e)	loading and unloading a live cartridge into a cartridge- operated tool, operating and doing repairs or examinations to a cartridge operating tool when it is loaded,
+(f)	handling sewage, molten metal, acids, alkalis, and other dangerous or corrosive materials, whether liquid or solid, which are injurious to the eyes,
+(g)	cleaning sward, dust, etc. with steam,
+(h)	any process involving the use of Laser beams,
+(i)	cutting or breaking, chipping or scaling of rock, metal, clayware, cast iron, concrete or glass product,
+(j)	cutting out or cutting off rivets or bolts from boilers,  vessels or plants,
+(k)	chipping, scaling or scurfing of boilers or vessels,
+(l)	grit-blasting, and
+(m)	any operation where there is a risk of injury to the eyes from flying particles.
+
+10.	Do not watch welding operations unless your eyes are protected from the damaging effect of flash.
+ 
+
+ 
+ 
+
+
+7.3	Head Protection	(Figure 7.3-1 refers)
+
+1.	No person shall enter a construction site unless he is wearing a suitable safety helmet as required by CS(S)R 48(2). Safety helmets are for protection against falling  objects  and  heavy blows and shall conform to EN 397 or equivalent. Bump caps are for protection against light blows and shall conform to B.S. 4033.
+
+2.	Wear a safety helmet:
+(a)	when there is the risk of being hit by falling objects;
+(b)	while on or near a construction site;
+(c)	during adverse weather conditions; and
+(d)	when in any area designated as a “hard hat” area.
+
+3.	Wear bump caps or safety helmets when working in or passing any place where the headroom is limited and there is the risk of bumping against hard and protruding objects.
+
+4.	Correctly adjust the head harness so that head protection  will stay on while you are bending over and yet will not be so tight that the harness makes a mark on your forehead.
+
+5.	Provide identification labels to all helmets in some  way  to  prevent random exchange among wearers, with one helmet exclusive to each person.
+
+6.	Inspect helmets for cracks or sign of impact or rough treatment before each usage. Destroy, remove and replace all worn, defective or damaged helmets. Further, safety helmets of which the service life as recommended by the manufacturer, usually 3 years, have expired shall not be used and shall be replaced irrespective of the condition.
+
+7.	Destroy any helmet that has received a severe blow. The blow may have substantially reduced the protection offered by the helmet without apparent defects.
+
+8.	Prevent safety helmets from being dropped, thrown or used as supports.
+ 
+ 
+
+9.	Always make certain that there is at least 30 mm clearance between the crown straps and the inside shell.
+
+10.	Maintain shells and harness in excellent condition, and replace any defective part immediately.
+
+11.	Remove tars, paints, oils and other adherent dirt with non­ flammable and non-toxic solvents. Consult the helmet manufacturer before choosing a solvent as some can be harmful to dielectric helmets.
+
+12.	Wipe dust or moisture from helmets before storing them.
+
+13.	Do not place helmets on the rear window shelf of a car as  sunlight may adversely affect their strength. Also, a helmet may become a hazardous missile in case of emergency stops or accidents.
+
+14.	Provide suitable storage racks or lockers for helmets at work sites.
+
+15.	Service life of safety helmets is a function of several factors including materials used, quality control, usage conditions, care and maintenance. The normal service life of most  helmets  is about 2 to 3 years.
+
+16.	Supervising officers should carry out periodic inspection of helmets.
+ 
+
+ 
+ 
+
+
+7.4	Hearing Protection	(Re. Figure 7.4 - 1 refers)
+
+1.	Refer to section 2.1.6 on “Noise Control”.
+
+2.	Ensure that the attenuation of all ear protectors conform to B.S. 5108.
+
+3.	Do not use ordinary dry cotton wool for hearing protection because it cannot provide any.
+
+
+Ear Plugs
+
+1.	Use re-usable ear plugs or disposable ear plugs where the attenuation demanded is not excessive. The attenuation of some soft plastic re-usable ear plugs ranges from 18 to 25 dB(A) and that some disposable ear plugs made of glass down or wax cotton wool ranges from 8 to 12 dB(A).
+
+2.	Provide disposable ear plugs for infrequent visitors and ensure that they are never re-used.
+
+3.	Provide re-usable ear plugs for those who need to work continuously for a long-period in a high noise area.
+
+4.	Hygiene is important, particularly with re-usable ear plugs. Wash them clean every time after use and store them properly. Also, clean the box for holding the ear plugs at the same time.
+
+5.	Re-usable ear plugs are obtainable in different sizes to  fit different sized ear canals. Universal fitting re-usable plugs  are also available. Take care in selecting the correct size if the universal fitting type is not used. If they are too small for the ear canals, the attenuation effect will be reduced or even lost. If they are over sized, they may deform the ear canals and cause severe nerve problems in the worst case.
+
+6.	Note that disposable ear plugs of compressible foam rubber, glass down or wax cotton wool are all made for universal fitting.
+ 
+ 
+
+7.	When a person is given ear plugs for the first time, tell him how  to put them in and look after them after use. Before inserting an ear plug, put one hand behind the head and pull the back of the ear to open the ear canal. Compress the ear plug to a smaller size and slide it into the ear canal gently. Release the hand pulling the ear. The ear plug should sit tightly and comfortably.
+
+
+Ear Muffs
+
+1.	Use ear muffs where a large attenuation of up to 40 dB(A) is demanded. Ensure that the cushion can wrap around the whole ear and provide a good seal.
+
+2.	Prefer ear muffs with replaceable ear cushions because they deteriorate with age or may be damaged in use.
+
+3.	Avoid wearing spectacles in order to get a good seal from  the ear cushions.
+
+4.	Ear muffs should be stored and maintained properly. Use only soap and water or the solvent recommended by the manufacturer of the ear muffs for cleaning.
+
+5.	Provide ear muffs for those who may need to get in and out of a high noise area frequently.
+ 
+
+ 
+ 
+
+
+7.5	Fall Protection	(Re. Figure 7.5 - 1&2)
+
+1.	Take adequate steps (as stipulated in the Construction Site (Safety) Regulations (CSSR) Reg. 38B) to prevent any person on a construction site from falling from a height of 2 metres or more.
+
+2.	Adequate steps include the provision, use and maintenance of one or more of the following safety measures:
+(a)	working platforms,
+(b)	guard-rails, barriers, toe-boards and fences;
+(c)	coverings for openings;
+(d)	gangways and runs.
+
+3.	In all circumstances, safe working platforms shall be provided as far as is practicable. Where the special circumstances of the  work make it impractical to  provide  working  platforms, scaffolds and other means of fall prevention, suitable and adequate safety nets and safety harnesses/belts shall be provided. If it is impracticable to provide safety nets,  suitable and adequate safety harnesses/belts shall be provided. Safety harnesses and belts should only be used as the last resort to prevent falls, and they shall not be considered as suitable and adequate unless they are attached continuously to a suitable and secure anchorage.
+
+4.	Any person on a construction site liable to fall less than 2 m but the injuries so caused may be serious, similar measures  to prevent falls as described in paras. 2 and 3 above shall be taken.
+
+5.	A safety harness shall be used for fall  protection  because  it could reduce injuries to the waist caused by the shock from a fall. In addition, use shock absorbing device as far  as practicable. Safety belt shall only be used for positioning and travel restraint.
+
+6.	Wear safety harnesses or belts and attach them to  suitable anchor points for:
+(a)	rigger works;
+(b)	works performed from suspended working platforms or work cages; and
+ 
+ 
+
+(c)	climbing permanent ladders that are provided with a fall  arrest system.
+
+7.	Properly maintain all safety nets, safety harnesses/belts and other equipment provided for prevention of falls of person.
+
+8.	Wear a safety harness/belt and keep it attached to a secure anchorage whenever the use of a harness/belt is necessary for your own or other person’ s safety.
+
+9.	The safety harness or belt anchor point should be directly above and the lanyard shall be left with the minimum free length. All anchor points shall conform to B.S. 5845. or equivalent.
+
+10.	Use safety belts and harnesses of the smaller drop. They are made to two drop limits (i.e. lanyard lengths), one is 0.6 m for close work and the other is 2 m for providing greater freedom of movement.
+
+11.	All safety harnesses and belts shall conform to B.S. 1397 or equivalent.
+
+12.	Register all safety harnesses and belts. Maintain a record of maintenance.
+ 
+
+ 
+
+ 
+ 
+
+
+7.6	Respiratory Protective Equipment	(Figure 7.6 - 1 refers)
+
+1.	Wear suitable respirators for protection when:
+(a)	sanding and rubbing down wood, filling materials and old paint;
+(b)	spray painting;
+(c)	steam cleaning;
+(d)	cleaning cooling coils and filters with high pressure jets;
+(e)	all processes involving asbestos or asbestos based products, lead, and harmful or toxic chemicals in open vessels;
+(f)	all processes that may give out silica dust or mercury vapour;
+(g)	all works in a confined space;
+(h)	the atmosphere contains a nuisance, harmful or toxic dusts or gases; and
+(i)	for rescue purposes.
+
+2.	Ensure that suitable respirators can provide adequate protection. This is measured by the degree of inward leakage that occurs when used. The maximum allowable inward leakage for the various type of respirators are given in the appropriate British Standards.
+
+3.	The degree of inward leakage depends on:
+(a)	the quality of face seal (facial hair, wearing spectacles, etc. can seriously affect the face seal);
+(b)	the degree of efficacy of the filter or canister if used;
+(c)	the degree of efficacy of the exhalation valve if used; and
+(d)	the maintenance of the respirator and its accessories.
+
+4.	Provide training to all persons using the respirators for their correct fitting, use, limitations and symptoms of exposure.
+
+5.	Make reference to Table 7.6a and 7.6b for selection suitable respirators and the correct type for protection against specific hazards.
+ 
+ 
+
+
+Table 7.6a - Specifications for Respirators
+
+Specifications	Reference
+The selection, use and maintenance of
+respiratory equipment	BS4275:1974
+Respirators for protection against harmful
+dusts and gases	BS2091:1969
+High efficiency dust respirators and Positive
+pressure powered dust respirators	BS4558:1970
+Specification for filtering facepiece dust
+respirators	BS6016:1980
+Positive pressure powered dust respirators	BS4558:1970
+
+
+Table 7.6b
+Types of Respirators to Use Against Specific Hazards
+
+Type	Purpose
+Facemask	Nuisance dusts and non-toxic sprays
+Cartridge Respirator	Low concentration of certain relatively
+non-toxic gases
+Canister Respirator	Low concentration of certain toxic
+gases
+Positive Pressure	Against disease producing non-toxic
+dusts
+
+NOTE : Cartridge respirator and  canister  respirator  shall  only be used where the concentration of toxic gases is low and where there is no risk of oxygen deficiency.
+
+6.	Respirators for the use of asbestos works shall be those approved by the Commissioner for Labour (Regulation 12 of the Factories and Industrial Undertaking (Asbestos) Special Regulations). Some of them are listed in Table 7.6c.
+ 
+ 
+
+
+Table 7.6c
+
+Manufacturer	Model/Type Number
+3M	a.
+b.
+c.	9920 disposable respirator
+7200 half-mask with 7255 filter
+7300 half-mask with 7255 filter
+Sekur-Pirelli spa.	a.
+
+b.
+
+c.	Polimask 200 half-mask with type 200 filter cartridge
+Polimask 200/2 half-mask with 2 type 200 filter cartridges
+C607 full facemask with 975P3 filter
+Rascal Safety Ltd.	a.
+
+
+b.
+
+
+c.
+
+
+d.	Dustmaster DM1 ventilated visor 045-00-01P5 with 045-00-01
+headpiece, 021-02-06 main filter and 500-02-05 motor
+Airstream AH4GB2 Respiratory Protective Helmet 060-00-16 with AS23-4 main filter 06-23-04 and visor assembly  060-10-17 Breathe Easy & Positive Pressure Powered Respirator 055-00-01P1
+with 2 P3 canisters 009-01-00, full facemask and 007-00-05 battery part Powerflow Positive Pressure Powered Respirator 055-00-01P6 with 1 PM3 canister 009-00-13P, full facemask 055-00-01P and 007-00-03 battery part
+
+7.	Note that all respirators, with the exception of disposable types, require cleaning and inspection after use and before wearing by another person. Cartridges and filters have a limited life which  can vary depending upon the environment in which they are used and manufacturer’ s recommendations should be closely followed.
+
+9.	Store respirators properly when not in use.
+ 
+
+ 
+ 
+
+
+7.7	Breathing Apparatus	(Figure 7.7 - 1 refers)
+
+1.	Breathing apparatus offers the most effective protection against toxic gases and in an oxygen deficient environment.
+
+2.	Ensure that every person designated to wear breathing apparatus shall be certified fit by a doctor.
+
+3.	Adequately train every person designated to wear breathing apparatus and give them adequate practice in its use.
+
+4.	Make reference to table 7.7a for selection of suitable breathing apparatus.
+
+Table 7.7a - Specifications for Breathing Apparatus
+
+Specifications	Reference (BS
+or equiv.)
+
+a.
+b.
+c.
+d.	
+Closed circuit type Open circuit type
+Fresh air hose and compressed air line Escape type	BS4667:1974
+Part 1
+Part 2
+Part 3
+Part 4 (1982)
+
+5.	Note the pressure gauge readings when  using  breathing apparatus and make sure that there is adequate gas in the cylinder before use.
+
+6.	Service and check the breathing apparatus regularly by the manufacturer. Check leakage of the gas hose and replace immediately if a defect is found.
+
+7.	Store the breathing apparatus properly when not in use, and maintain proper record.
+ 
+
+ 
+ 
+
+
+7.8	Safety Footwear
+
+1.	Wear suitable footwear for work and ensure that all safety footwear conforms to EN 344 and EN 345 or their equivalent.
+
+2.	Use safety footwear on site or in other dangerous areas. Foot injuries account for a lot of industrial accidents and safety footwear would prevent most of them.
+
+3.	Wear suitable safety shoes or ankle boots when working anywhere where there is high risk of foot injuries from slippery   or uneven ground, sharp objects, falling objects, etc.
+
+4.	All safety footwear, including safety shoes, ankle boots and rubber boots shall be fitted with steel toecaps. Where there is a risk of treading on protruding nails or sharp  objects,  the footwear shall be fitted with penetration resistant soles, and be identified with a symbol "P" in accordance with EN 344. For electrical workers, or where electrical hazard exists, safety footwear with electrical resistant soles shall be fitted as appropriate.
+
+5.	Avoid wearing flip flops, high heeled shoes, slippers, light sport shoes etc. in situations where there is a risk of foot injury.
+
+6.	Keep shoe lace knots tight.
+ 
+ 
+
+
+7.9	Protective Clothing
+
+1.	Wear impermeable overalls, gloves and dust caps when working or handling asbestos and asbestos based products, lead  and lead based products including lead paint, and other harmful chemicals, which may be absorbed through intact skin.
+
+2.	Do not wear overalls that are worn or saturated with oil. They should be clean and close fitting clothing, changed before returning home and washed every day.
+
+3.	Avoid loose sleeves or belts and keep loose clothing buttoned  up.
+
+4.	Wear impermeable protective overalls when entering a manhole where there is possible contact with sewage or unlined tunnels with unknown drippings.
+
+5.	Wear gaiters manufactured to B.S. 4676:1971 or equivalent when engaged in handling molten metal and knocking  out  hot  materials.
+ 
+ 
+
+
+7.10	Hand Protection
+
+1.	Wear suitable gloves and clean after use when:
+(a)	working or handling sheet metal and other objects, which have sharp edges and corners;
+(b)	cutting with a knife or other cutting edge;
+(c)	operating a chainsaw;
+(d)	rolling film;
+(e)	welding and cutting;
+(f)	avoiding electric shock;
+(g)	providing better grip while handling oily components;
+(h)	lifting manhole covers and engaged in manual handling of materials and equipment, to provide better a grip; and
+(i)	avoiding heat burn and direct contact with dye or other chemicals.
+
+2.	Do not wear gloves where there is a risk of them becoming entangled in moving parts of machinery.
+
+3.	Avoid direct contact with ratten rods, water jetting hoses and other drainage equipment.
+
+4.	Wash hands properly with disinfectant soap and clean water before drinking, eating or smoking. Wash hands immediately  after each operation on site when the situation warrants.
+ 
+ 
+
+
+8.1	Generators
+
+1.	Ensure that generators are operated only by authorised persons who should be adequately trained. Training should include emergency and shutdown procedures.
+
+2.	Ensure that proper fire precautionary measures are observed. Suitable fire extinguishers and fire fighting equipment should be provided near the generator.
+
+3.	Regularly check and maintain the generator and its ancillary equipment. These should be carried out by competent and trained persons.
+
+4.	Visual check the conditions of the generator and its ancillary equipment before operation, including the  mechanical  system, the electrical system, the fuel oil system and the safety features. Do not start if abnormal conditions are found.
+
+5.	Ensure that the fuel oil supplies (in drums or tanks) are stored in   a proper dangerous goods store and that it does not exceed the prescribed quantities on site.
+
+6.	Handle the fuel oil with care to prevent spillage and fire; and also to prevent hazards to health of the operators. Use suitable personal protective clothing.
+
+7.	Do not drain the fuel oil to the road drain. Use proper container for disposal.
+
+8.	Do not smoke in the vicinity of the generator and the fuel oil storage area.
+
+9.	The generator shall be located in a safe area to exclude access and handling by unauthorised person. Fence off the area if necessary.
+
+10.	Ensure that the generator, if portable, is anchored safely to the desired location to avoid shifting away.
+ 
+ 
+
+11.	All electrical connections shall be securely fixed to the generator. The work shall be carried out by Registered Electrical Workers.
+
+12.	Avoid connecting too many electrical loads to the generator to cause overheating and subsequent danger.
+
+13.	Load connections must be carried out when the generator is under shutdown conditions.
+
+14.	Ensure that adequate ventilation is provided during operation of the generator.
+
+15.	Ensure that the exhaust pipe of the generator is not directed to people and work areas.
+
+16.	Ensure that proper lagging and/or protective guards are provided for exhaust pipe, radiator to avoid scalding.
+
+17.	Ensure that all moving parts are properly guarded by enclosures which should be secure.
+
+18.	If it is necessary to move the generator from place to place, ensure that it is shut down before moving. Take special care during transportation to avoid damage which may result in subsequent unsafe operations. The generator shall  be  checked by a  Registered Electrical Worker after the relocation and prior  to its use.
+
+19.	Ensure that the operating and inspection instructions are  available and strictly followed in the operation and maintenance of the generator.
+
+20.	Ensure that the generator is properly earthed and the impedance of the earthing electrode and connection is periodically checked by a Registered Electrical Worker.
+ 
+ 
+
+
+8.2	Switchboard	(Figure 8.2 - 1 refers)
+
+1.	Ensure that switchboards are installed, repaired and maintained by authorised persons who should be competent and adequately trained. Training should also include emergency and rescue procedures.
+
+2.	A permit-to-work system shall be established to include only authorised and competent persons who are Registered Electrical Workers to work on the switchboards.
+
+3.	Ensure that all system operating procedures for the switchboard are established and followed.
+
+4.	Ensure that the switchboards are regularly checked and maintained by Registered Electrical Workers.
+
+5.	Ensure that all connections of equipment and tools to the switchboard are carried out by Registered Electrical Workers.
+
+6.	Prove that the system is made “dead” (i.e. at or about zero voltage and disconnected from any live system) as far as possible before connections are made to the switchboard. Otherwise authorisation, adequate supervision and precautionary measures must be provided.
+
+7.	Ensure that all circuits under isolation or being worked on are either made “dead” and/or locked off and that proper warning signs and notices are provided.
+
+8.	The switchboards and distribution circuits shall  be  equipped with suitable protection devices such as  Miniature  Circuit Breaker (MCB) and Residual Current Device (RCD) to protect against overcurrent and earth leakage respectively.
+
+9.	Ensure that temporary switch boxes, socket outlets, plugs and cable couplers are of splash-proof type with a protection class of IP54 or above.
+
+10.	Ensure that for work sites within occupied premises, the fixed electric equipment should not be connected directly to the
+ 
+ 
+
+existing permanent switchboards but through temporary switchboards with proper protective devices.
+
+11.	All outgoing cables shall be protected and supported.  Never leave them lying on ground unprotected to avoid damage and tripping over.
+
+12.	Ensure that all connections including cables, plugs, connectors are of proper sizes/ratings, firmly wired up and the protective conductors are earthed.
+
+13.	Ensure that no illegal connections/extensions, however temporary, are allowed. Keep the doors of switchboard locked.
+
+14.	Never use worn or damaged accessories.
+
+15.	Ensure that adequate "Danger" notices/signs are provided to indicate that the switchboard is alive. Warning signs and locks,   as appropriate, shall be provided on doors of switchrooms to guard against unauthorised entry.
+
+16.	Ensure that suitable type starters are provided for electrical machines, and that earthing provided to all machines, including their enclosures.
+
+17.	Ensure that insulating mat is provided for the switchboard, stand on it while operations are carried out. Take special care when the site conditions are damp.
+
+18.	Ensure that all electrical connections, including temporary ones, are properly installed and tested.
+
+19.	Use electrical connections that are suitable for the type of environmental conditions of the site.
+
+20.	Ensure that the electrical wiring diagram for the switchboard is provided and displayed prominently in its vicinity.
+
+
+
+32/ Ensure that the Registered Electrical Worker  /  Registered  Electrical Contractor to complete a Work Completion Certificate
+ 
+ 
+
+(Form WR1) after satisfactory inspection and testing of the electrical installation as required by the Code of Practice for the Electricity (Wiring) Regulations. The Proforma of Form WR1 can be obtained from the Customer Service Office at the Headquarters of the Electrical and Mechanical Services Department.
+
+33/ Maintain a logbook to record results of regular inspection and testing on the electrical installations by a Registered Electrical Worker.
+
+34/ Ensure that some personnel trained and familiar with first aid and cardio-pulmonary resuscitation (CPR) are available to treat electric shock.
+ 
+
+ 
+ 
+
+
+8.3	Wiring and Connections
+
+1.	Ensure that wires and cables are protected against chafing, pinching, cutting, or other hazards, which could damage the insulation of the metal conductor leading to an electric shock.
+
+2.	Ensure that the locations of underground cables are marked so that they will not be damaged by excavating equipment.
+
+3.	Ensure that wires, cables, and conduits  are adequately secured to the structures along which they pass or to the chassis of the equipment on which they are installed.
+
+4.	Ensure that wire and cables are kept off floors over that vehicles may pass. If they must be on the floor, ensure that they are adequately protected against damage.
+
+5.	Check for defective or damaged cables, plugs, sockets and damaged or worn appliances.
+
+6.	Keep loose cables off the floor and out of the way of other people as much as possible.
+
+7.	Do not withdraw a plug from a socket by pulling the cable.
+
+8.	Electrical connections must be by proper plugs and sockets. Makeshift connections and taped joints are not permitted.
+
+9.	Check cords to electric tools and other portable equipment before using, and replace or repair if defective. All such tools, equipment and extension cords should be earthed.
+
+10.	Never cut off, bend back the "earth pin" on three-prong plugs.
+
+11.	Make sure that extension cords are the right gauge for the job to prevent overheating, voltage drops, and tool burnout.
+ 
+ 
+
+
+9.1	Accident Reporting Procedure
+
+1.	In case of accidents, if the injured is a civil servant, the departmental procedures for accident reporting should be followed.
+
+2.	If a "notifiable accident" happened in construction sites, the procedures as stipulated in Section 9.1.2 of the Construction Site Safety Manual shall apply. A copy of the Flow Chart for reporting accidents to the Works Bureau is attached in Page 9.2.
+
+3.	An accident is classified as a "notifiable accident" if:
+-	it has led to fatality, or
+-	the victim is in critical condition, or
+-	the media have arrived on site or have telephoned to ask information about the accident, or
+-	it will arouse public interest/concern in view of the damage/inconvenience that has been caused or its potential harm to workers and/or the public, or
+-	it has created a drawn-out situation which may lead to fatality or multiple injuries.
+
+4.	In addition, departmental procedures for reporting construction site accidents shall be followed.
+ 
+ 
+
+˔̃̃˸́˷˼̋ʳ˫
+
+
+
+
+ 
+
+
+ 
+˜́˹̂̅̀
+ 
+ 
+ˡ̂̇˼˹̌ʳ˼́ʳ˴˶˶̂̅˷˴́˶˸ʳ̊˼̇˻
+˗˸̃˴̅̇̀˸́̇˴˿ʳ̅˸̃̂̅̇˼́˺ʳ̃̅̂˶˸˷̈̅˸
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+9.2	Accident Investigation
+
+1.	Accident investigation should be carried out as quickly as possible.
+
+2.	To conduct interviews with as many witnesses as necessary.
+
+3.	Total reliance should not be placed on any one sole source of evidence.
+
+4.	Bring along with you the following which may be useful for accident investigation ­
+
+(a)	checklist for obtaining basic and typical information for accidents;
+(b)	notebook;
+(c)	tape recorder;
+(d)	camera;
+(e)	measuring tape;
+(f)	special equipment for the particular investigation.
+
+5.	The main theme of the investigation is to find out answers to the following questions:
+
+(a)	When did the accident occur?
+(b)	Where did it occur?
+(c)	Who was injured or what was damaged?
+(d)	What caused the accident (immediate and contributory)?
+(e)	Why did it occur?
+(f)	How could it have been prevented?
+(g)	How can a recurrence be prevented?
+
+6.	Prepare an investigation report which should be as short as possible, but should be detailed enough for its purpose. The report should contain the following:
+
+(a)	a summary of what had happened;
+(b)	a summary of events prior to the accident;
+(c)	information gathered during the investigation;
+ 
+Chapter 9	Accident Investigation	9 - 4
+	(d)
+(e)
+(f)
+(g)
+(h)	details of witnesses;
+information on injury or loss sustained; conclusions and possible cause(s) of the accident; recommendations to prevent  recurrence; supporting materials (photographs, diagrams, etc.).
+7.	To review and revise the relevant method statements.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APPENDIX A
+ 
+ 
+
+
+1.	Factories and Industrial Undertakings Ordinance.
+
+Factories and Industrial Undertakings Regulations : ­
+
+.	Factories and Industrial Undertakings (Confined Spaces) Regulation.
+
+.	Factories and Industrial Undertakings (Blasting by Abrasives) Special Regulations.
+
+.	Factories and Industrial Undertakings (Notification of Occupational Diseases) Regulations.
+
+.	Quarry (Safety) Regulations.
+
+.	Factories and Industrial Undertakings (Woodworking Machinery) Regulations.
+
+.	Construction Sites (Safety) Regulations.
+
+.	Factories and Industrial Undertakings (Lifting Appliances and Lifting Gear) Regulations.
+
+.	Factories and Industrial Undertakings (Cargo and Container Handling) Regulations.
+
+.	Factories and Industrial Undertakings (Abrasive Wheels) Regulations.
+
+.	Factories and Industrial Undertakings (Work in Compressed Air) Regulations.
+
+.	Factories and Industrial Undertakings (Spraying of Flammable Liquids) Regulations.
+
+.	Factories and Industrial Undertakings (Good Lifts) Regulations.
+
+.	Factories and Industrial Undertakings (Cartridge-Operated Fixing  Tools) Regulations.
+
+
+. Factories and Industrial Undertaking (Protection of Eyes) Regulations.
+ 
+ 
+
+
+.	Factories and Industrial Undertakings (Noise at Work) Regulations.
+
+.	Factories and Industrial Undertakings (Electricity) Regulations.
+
+.	Factories and Industrial Undertakings (Asbestos) Special Regulations.
+
+.		Factories and Industrial Undertakings (Safety Officers and Safety Supervisors) Regulations.
+
+.		Factories and Industrial Undertakings (Carcinogenic Substances) Regulations.
+
+.		Factories and Industrial Undertakings (Dangerous Substances) Regulations.
+
+.		Factories and Industrial Undertakings (Suspended Working Platforms) Regulation.
+
+Factories	and	Industrial	Undertakings	(Safety	Management) Regulations.
+
+Factories and Industrial Undertakings (Loadshifting Machinery) Regulations.
+
+2.	Occupational Safety and Health Ordinance.
+
+3.	Builders’ Lifts and Tower Working Platforms (Safety) Ordinance.
+
+4.	Shipping and Port Control Ordinance.
+
+.	Shipping and Port Control (Cargo Handling) Regulations.
+
+5.	Dangerous Goods Ordinance
+
+.	Dangerous Goods (Application and Exemption) Regulations .
+
+
+.	Dangerous Goods (General) Regulations.
+ 
+ 
+
+.	Dangerous Goods (Shipping) Regulations.
+
+6.	Electricity Ordinance.
+
+.	Electricity (Wiring) Regulations.
+
+.	Electricity Supply Lines (Protection) Regulation.
+
+7.	Fire Services Ordinance.
+
+8.	Waste Disposal Ordinance.
+
+.	Waste Disposal (Chemical Waste) (General) Regulation.
+
+9.	Radiation Ordinance.
+
+.	Radiation (Control of Radioactive Substances) Regulation.
+
+10.	Boilers and Pressure Vessels Ordinance.
+
+11.	Mining Ordinance.
+
+12.	Gas Safety Ordinance.
+
+.	Gas Safety (Installation and Use) Regulations.
+
+.	Gas Safety (Miscellaneous) Regulations.
+
+.	Gas Safety (Registration of Gas Installers and Gas Contractors) Regulations.
+
+.	Gas Safety (Gas Supply) Regulations.
+ 
+ 
+
+1.	Code of Practice for Safety and Health at Work with Asbestos.
+
+2.	Code of Practice for Scaffolding Safety.
+
+3.	Code of Practice - Safety and Health at Work for Industrial Diving.
+
+4.	Code of Practice for the Protection of Hearing in Industrial Undertakings.
+
+5.	Code of Practice for the Control of Lead at Work.
+
+6.	Code of Practice for Protection of Quarry and Construction Workers from Silicosis.
+
+7.	Code of Practice for Protection of Tunnel Workers from Silicosis.
+
+8.	Code of Practice for the Electricity (Wiring) Regulations.
+
+9.	Code of Practice on the Design and Construction of Builders’ Lifts.
+
+10.	Code of Practice on the Design and Construction of Tower Working Platforms.
+
+11.	Code of Practice for Safety at Work (Lift and Escalator).
+
+12.	Code of Practice for Safe Use of Mobile Cranes and Tower Cranes.
+
+13.	Code of Practice for Safe Use and operation of Suspended Working platforms.
+
+14.	Code of Practice for Safety at Work Construction Over Water ­ Prevention of Fall
+
+15.	Guidance Notes for Safety at Work (Falsework).
+
+16.	Code of Practice for the Lighting, Signing and Guarding of Road Works.
+
+17.	Laser Safety Code of Practice.
+
+
+18.	Code of Practice - Avoiding danger from gas pipes.
+ 
+Appendix B	List of Relevant Safety Standards	B - 2
+	and Code of Practice	
+
+19.	Gas Utilisation Code of Practice GUO6 - LPG Installations for Catering Purposes in Commercial Premises.
+
+20.	Gas Utilisation Code of Practice GUO9 - Low Pressure Regulators for Supplying Gas from LPG Cylinders Having Less Than 40 Litres Water Capacity.
+
+21.	Gas Utilisation Guidance Note GU03 - Part 1, Installation  Requirements  for Domestic Instantaneous Gas Water Heaters (up to 60 KW Input) in Hong Kong.
+
+22.	Guidance Notes for the Electrical Products (Safety) Regulation.
+
+23.	A Guide To Safety Management.
+
+24.	Guidance Notes on the Safe Use of Earth-Moving Machinery.
+
+25.	Guidance Notes on Manual Handling Operations.
+
+26.	Code of Practice on Working Near Electricity Supply Lines.
+
+27.	Guidance Notes on the Selection, Use and Maintenance of Safety Helmets
+
+28.	Guide for safety at Work - Electric Shock Hazard of Manual Electric Arc Welding Work
+
+29.	A Guide to Safety & Health at Work for Gas Welding and Flame Cutting.
+
+30.	Draft Code of Practice for Demolition of Buildings, 1998.
+ 
+ 
+
+
+
+The hazardous substances listed below are commonly found in general construction sites:
+
+
+Dust
+
+
+Substances	Hazard	Probable Activities	Control Measures
+Cement	Skin burns, harmful to mouth and nose from lime content and
+when wet	Masonry and plaster work	Minimise spread of material, respiratory protection for dry mixing/handling, use of suitable PPE, e.g. gloves,
+wellingtons, barrier creams before and after working.
+Man made mineral fibre (MMMF) e.g.
+rockwool	Irritant to respiratory tract, eyes and skin	Insulation work	Respiratory protection
+Gypsum	Irritant to throat, nose and eyes	Masonry and plaster work	Minimise spread of material, respiratory protection for dry mixing/handling, use of suitable PPE, e.g. gloves,
+wellingtons, barrier creams before and after working.
+Silica	Silicosis	Grit blasting of masonry, concrete scaling, granite polishing, tunnelling in silicate rock, power cutting of furnace
+brickwork/liners.	Wet methods, process enclosure with dust extraction; respiratory protection
+Wood-dust	Irritants, allergic reactions	Carpentry work	Enclosure and exhaust ventilation, dust extraction on
+portable tools
+ 
+ 
+
+
+
+Fumes and gases
+
+
+Substances	Hazard	Probable Activities	Control Measures
+Welding
+fumes	Highly irritating to
+respiratory system	Welding, brazing, cutting	Local exhaust ventilation, air supplied helmet;
+monitoring of exposure
+Hydrogen sulphide	Irritates eyes, nose and throat, and
+potentially lethal	Work at sewers, drains, excavations	Exhaust and forced ventilation, use of breathing apparatus, continuous monitoring
+Carbon dioxide	Oxygen deficiency	Bore holes in chalk and limestone, Welding in
+confined spaces	Exhaust and forced ventilation, use of breathing apparatus, continuous monitoring
+Carbon monoxide	Toxic	Operation of LPG equipment, petrol or diesel plant in or close to confined
+spaces	Site away from confined spaces; mechanical ventilation, continuous monitoring
+ 
+ 
+
+
+
+Chemical Products
+
+
+Substances	Hazard	Probable Activities	Control Measures
+Solvents, e.g. toluene, xylene in paints, lacquers, glues, strippers,
+thinners, etc.	Dermatitis, respiratory damage	Decorative applications.	Ensure good ventilation, use of breathing apparatus, imperious protective clothing and washing facilities
+Preservatives/ fungicides	Damage to nervous system and other organs from
+range of active ingredients	“in situ” timber treatment	
+Lubricants	Dermatitis, acne and possibly skin cancer in extreme cases, respiratory
+damage in mist form	Near Machinery, mould release agents	Filtration to reduce mist, good ventilation, respiratory protection and protective clothing (impervious to oil)
+Acids/alkalis, e.g. hydrochloric, hydrofluoric and
+sulphuric acids.		Mainly masonry cleaning, battery.	The acids/alkali as dilute as possible, use of suitable PPE
+ 
+ 
+
+
+
+Resin systems: Isocyanates
+
+
+
+
+
+Epoxy
+
+
+
+
+Polyester	
+
+
+Respiratory irritant causing asthma and sensitisation.
+
+
+
+
+Severe irritant and sensitiser, toxic
+
+
+
+Styrene vapour both toxic by inhalation, narcotic and irritant to eyes and skins.	
+
+
+Methylene diphenyl diisocyanate (MDI) for thermal insulation of buildings (e.g. roof sprayed) Polyurethane for decorative work by brush, roller or spraying.
+
+Work using high strength adhesives for joining structure units, floor, tube and pipe coatings.
+
+Glass fibre reinforced structure work, claddings and coatings.	
+
+
+Mechanical ventilation, breathing apparatus, suitable PPE and washing facilities
+
+
+
+
+
+Mechanical ventilation, breathing apparatus, suitable PPE and washing facilities
+
+
+
+Mechanical ventilation, breathing apparatus, suitable PPE and washing facilities
+Site contaminants	Microbiological risks include Weil’ s disease, tetanus, hepatitis B	Site redevelopment involving ground work, demolition, tunnelling activities, work near contaminated water
+courses.	Thorough site examination and clearance
+ 
+ 
+
+
+
+Others
+
+
+Substances	Hazard	Probable Activities	Control Measures
+Non-ionizing Radiation:
+
+Infrared Radiation
+
+Laser Beam	
+
+
+Glass-blower’ s cataract
+
+Optical breakdown of biological molecules, photochemical activation of molecules	
+
+Gas welding, radiation from hot bodies
+
+Surveying, sewer pipe installation, tunnelling	
+
+
+Screening, shielding, suitable protective clothing, eye protection
+
+Can only be used by properly trained operators, recommendations stated in the ANSI standard Safe Use of Lasers.
+Ultra-violet Radiation	Photopigmentation of
+skin, sunburn, photokeratitus	Electric arc welding	Screening, shielding, suitable protective clothing, eye protection
+ 
+ 
+
+Contact Person	Telephone	Pager/Fax
+Chief Information Officer, Secretariat Press	2848 2002	Fax 2537 1877
+Office (Works)	9022 9363	
+Principal Information Officer,	2848 2003	7116 3300/
+SPO (W)	9094 8920	Page1088
+Duty Officer,
+Information Services Department	2842 8745
+(24 hours)	Fax 2537 1540
+Fax 2810 1721
+Chief Assistant Secretary (Safety),
+Works Bureau	2848 1149	Page 7326 4312
+Fax  2882 7152
+Assistant Secretary (Safety),
+Works Bureau	2848 6249	Fax 2882 7152
+Occupational Safety & Health Branch, Accident Hotline,
+Labour Department	2815 0678
+(office hours)	
+Divisional Occupational Safety Officers for inter-departmental liaison
+Labour Department	During office hours -- Refer to the telephone and fax numbers listed in
+Appendix II on page C8-AII-P01 of
+the Construction Site Safety Manual (CSSM)
+Occupational Safety Division (Hong Kong and Islands Region), Labour Department	
+
+*9495 8966	
++!Fnfshfodz ufm/
+		Pvutjef!pggjdf
+		ipvst!pomz/
+Occupational Safety Division (Kowloon Region),
+Labour Department
+(Yau Tsim Mong, Kowloon City, Wong Tai Sin, Shampshuipo and Stonecutters Island)	
+
+*9132 0344	
+Occupational Safety Division (New Territories East and Kwun Tong Region),
+Labour Department
+(Kwun Tong, Sai Kung, Sha Tin, Tai Po and North)	
+
+*9132 0341	
+Occupational Safety Division (New Territories West Region),
+Labour Department
+(Kwai Tsing, Tsuen Wan, Tuen Mun and Yuen Long	
+
+*9495 8967	
+Occupational Safety Division (Integrated Services Group)
+Cross-region major infrastructure construction projects, including extension to the airport and railway systems and all activities relating to the
+operation of the airport and railways.	
+
+*9432 9827	
+ 
+ 
+
+Marine Industrial Safety Section
+Marine Department	2852 4472 (office hours)
+2858 2163 (24 hours)	Fax 2543 7209
+Senior Engineer/Safety Adviser,
+Architectural Services Department	2867 3467
+9192 6043	Fax 2810 8603
+Senior Engineer/Safety Adviser,
+Civil Engineering Department	2762 5621
+9400 4952	Fax 2714 0140
+		
+Senior Engineer/Safety Adviser,
+Drainage Services Department	2834 9681
+9164 8116	Fax 2833 9162
+Senior Engineer/Safety Adviser, Electrical and Mechanical Services
+Department	2808 3149
+9860 8630	Fax 2882 1574
+Senior Engineer/Safety Adviser,
+Highways Department	2762 3396	7470 3082
+Fax 2714 5216
+Senior Engineer/Safety Adviser,
+Territory Development Department	2231 4540
+9137 9061	Fax 2577 3562
+Senior Engineer/Safety Adviser,
+Water Supplies Department	2829 4565
+9353 0401	Fax 2794 0509
+Central Pollution Complaints Hotline
+Environmental Protection Department	2838 3111	Fax 2960 1756
+Site Safety Adviser
+Housing Department	2761 6197	2714 3328
+ 
+ 
+
+Please insert below other useful telephone numbers you consider essential including those required in your Department’ s accident reporting procedure.
+
+Contact Person	Telephone	Pager/Mobile Phone
