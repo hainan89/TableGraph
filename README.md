@@ -14,9 +14,13 @@ A table image generation algorithm is designed, thus theoretically we can obtain
 What interesting is that with doing so we do not need to annotate these table image data, since the semantic annotation mask can be simultaneously generated.
 
 Here we publish our first try, now it includes three core parts:
+
 (1) A table image and corresponding annotation mask image generation algorithm.
+
 (2) A DeepLabv3+ based table image semantic segmentation model.
+
 (3) A table image dataset.
+
 
 We have to admit that this is very intuitive work. 
 Although we have established some tests and obtained good results, there are limitations, and we are going to conduct further investigation.
